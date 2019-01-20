@@ -33,91 +33,69 @@ All my best choice resource links for data science in one place
 
  [Git - Book](https://git-scm.com/book/en/v2)</dt>
 
-</dl>
-
-</dt>
-
- 
-
 ### MOOC related
 
  
 
- [200 universities just launched 560 free online courses. Here’s the full list.](https://medium.freecodecamp.org/200-universities-just-launched-560-free-online-courses-heres-the-full-list-d9dd13600b04)</dt>
+ [200 universities just launched 560 free online courses. Here’s the full list.](https://medium.freecodecamp.org/200-universities-just-launched-560-free-online-courses-heres-the-full-list-d9dd13600b04)
 
- [Dashboard | MIT Professional Education Digital Programs](https://mitprofessionalx.mit.edu/dashboard)</dt>
+ [Dashboard | MIT Professional Education Digital Programs](https://mitprofessionalx.mit.edu/dashboard)
 
- [Data Science A-Z™: Real-Life Data Science Exercises Included | Udemy](https://www.udemy.com/datascience/)</dt>
+ [Data Science A-Z™: Real-Life Data Science Exercises Included | Udemy](https://www.udemy.com/datascience/)
 
- [Data Science Essentials | edX](https://www.edx.org/course/data-science-essentials-microsoft-dat203-1x-2?source=aw&awc=6798_1489913955_d9818a031ea60b9e133f81baa8e0fcbb&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=315645_LearnDataSci)</dt>
+ [Data Science Essentials | edX](https://www.edx.org/course/data-science-essentials-microsoft-dat203-1x-2?source=aw&awc=6798_1489913955_d9818a031ea60b9e133f81baa8e0fcbb&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=315645_LearnDataSci)
 
- [How to choose effective MOOCs for machine learning and data science?](https://medium.com/@tirthajyoti/how-to-choose-effective-moocs-for-machine-learning-and-data-science-8681700ed83f)</dt>
+ [How to choose effective MOOCs for machine learning and data science?](https://medium.com/@tirthajyoti/how-to-choose-effective-moocs-for-machine-learning-and-data-science-8681700ed83f)
 
- [Introduction to Data Analysis using Excel | edX](https://www.edx.org/course/introduction-data-analysis-using-excel-microsoft-dat205x-0)</dt>
+ [Introduction to Data Analysis using Excel | edX](https://www.edx.org/course/introduction-data-analysis-using-excel-microsoft-dat205x-0)
 
- [Introduction to Python for Data Science | edX](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-4?source=aw&awc=6798_1489913492_c663da04f25e4339087686b358457f93&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=315645_LearnDataSci#!)</dt>
+ [Introduction to Python for Data Science | edX](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-4?source=aw&awc=6798_1489913492_c663da04f25e4339087686b358457f93&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=315645_LearnDataSci#!)
 
-[Introduction to R for Data Science | edX](https://www.edx.org/course/introduction-r-data-science-microsoft-dat204x-3)</dt>
+[Introduction to R for Data Science | edX](https://www.edx.org/course/introduction-r-data-science-microsoft-dat204x-3)
 
-[Programming with Python for Data Science!](https://courses.edx.org/courses/course-v1:Microsoft+DAT210x+2T2017/info)</dt>
+[Programming with Python for Data Science!](https://courses.edx.org/courses/course-v1:Microsoft+DAT210x+2T2017/info)
 
-[Statistical Thinking for Data Science course](https://courses.edx.org/courses/course-v1:ColumbiaX+DS101X+1T2016/courseware/83b2b74597c44d858f1cd81edef2faf2/9ba7caa9efaf4b86b7521534f9c841d5/)</dt>
+[Statistical Thinking for Data Science course](https://courses.edx.org/courses/course-v1:ColumbiaX+DS101X+1T2016/courseware/83b2b74597c44d858f1cd81edef2faf2/9ba7caa9efaf4b86b7521534f9c841d5/)
 
-[Top Data Science Online Courses in 2017 – LearnDataSci](http://www.learndatasci.com/best-data-science-online-courses/)</dt>
+[Top Data Science Online Courses in 2017 – LearnDataSci](http://www.learndatasci.com/best-data-science-online-courses/)
 
-[U. Wash ML course Jupyter Home](https://hub.coursera-notebooks.org/user/hwxlouxsysrhhnfzzinqjs/tree)</dt>
+[U. Wash ML course Jupyter Home](https://hub.coursera-notebooks.org/user/hwxlouxsysrhhnfzzinqjs/tree)
 
-[I uncovered 1,150+ Coursera courses that are still completely free](https://medium.freecodecamp.org/coursera-free-online-courses-6d84cdb30da)</dt>
+[I uncovered 1,150+ Coursera courses that are still completely free](https://medium.freecodecamp.org/coursera-free-online-courses-6d84cdb30da)
 
 ### Scilab
 
- [Documentation / Resources / Home - Scilab](http://www.scilab.org/resources/documentation)</dt>
+ [Documentation / Resources / Home - Scilab](http://www.scilab.org/resources/documentation)
 
- [Matlab-Scilab equivalents](https://help.scilab.org/docs/5.5.2/en_US/section_36184e52ee88ad558380be4e92d3de21.html)</dt>
+ [Matlab-Scilab equivalents](https://help.scilab.org/docs/5.5.2/en_US/section_36184e52ee88ad558380be4e92d3de21.html)
 
- [Scilab Help](https://help.scilab.org/docs/6.0.0/en_US/index.html)</dt>
-
-</dl>
-
-</dt>
-
- 
+ [Scilab Help](https://help.scilab.org/docs/6.0.0/en_US/index.html)
 
 ### SQL
 
- 
+ [A Visual Explanation of SQL Joins](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
 
- [A Visual Explanation of SQL Joins](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)</dt>
+ [Join (SQL) - Wikipedia](https://en.wikipedia.org/wiki/Join_(SQL))
 
- [Join (SQL) - Wikipedia](https://en.wikipedia.org/wiki/Join_(SQL))</dt>
+ [PostgreSQL: Mathematical Functions and Operators](https://www.postgresql.org/docs/9.5/static/functions-math.html)
 
- [PostgreSQL: Mathematical Functions and Operators](https://www.postgresql.org/docs/9.5/static/functions-math.html)</dt>
+ [PostgreSQL: String Functions and Operators](https://www.postgresql.org/docs/9.5/static/functions-string.html)
 
- [PostgreSQL: String Functions and Operators](https://www.postgresql.org/docs/9.5/static/functions-string.html)</dt>
+ [Psycopg2 Tutorial - PostgreSQL with Python](https://wiki.postgresql.org/wiki/Psycopg2_Tutorial)
 
- [Psycopg2 Tutorial - PostgreSQL with Python](https://wiki.postgresql.org/wiki/Psycopg2_Tutorial)</dt>
+ [SQL Joins Explained](http://www.sql-join.com/)
 
- [SQL Joins Explained](http://www.sql-join.com/)</dt>
+ [The SQL Tutorial for Data Analysis | SQL Tutorial - Mode Analytics](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/)
 
- [The SQL Tutorial for Data Analysis | SQL Tutorial - Mode Analytics](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/)</dt>
-
- [Thinking in SQL vs Thinking in Python](https://blog.modeanalytics.com/learning-python-sql/)</dt>
-
-</dl>
-
-</dt>
-
- 
+ [Thinking in SQL vs Thinking in Python](https://blog.modeanalytics.com/learning-python-sql/)
 
 ### Statistics
-
- 
 
  [Regression Analysis Tutorial and Examples | Minitab](http://blog.minitab.com/blog/adventures-in-statistics-2/regression-analysis-tutorial-and-examples)</dt>
 
  [The 10 Statistical Techniques Data Scientists Need to Master](https://towardsdatascience.com/the-10-statistical-techniques-data-scientists-need-to-master-1ef6dbd531f7)</dt>
 
- [Welcome to STAT 505! | STAT 505](https://onlinecourses.science.psu.edu/stat505/node/1)</dt>
+ [Welcome to STAT 505! | STAT 505](https://onlinecourses.science.psu.edu/stat505/node/1)
 
 ### Visualizations
 [designing-great-visualizations.pdf](https://www.tableau.com/sites/default/files/media/designing-great-visualizations.pdf)</dt>
@@ -1368,34 +1346,34 @@ All my best choice resource links for data science in one place
 
  [Beginner JavaScript Tutorial - 1 - Introduction to JavaScript - YouTube](https://www.youtube.com/watch?v=yQaAGmHNn9s)</dt>
 
- [Eloquent JavaScript](http://eloquentjavascript.net/)</dt>
+ [Eloquent JavaScript](http://eloquentjavascript.net/) 
 
- [Form Validation with JavaScript - Check for an Empty Text Field - YouTube](https://www.youtube.com/watch?v=Pc2e2YpKArg)</dt>
+ [Form Validation with JavaScript - Check for an Empty Text Field - YouTube](https://www.youtube.com/watch?v=Pc2e2YpKArg) 
 
- [JavaScript Basics Part 1](https://www.htmlgoodies.com/primers/jsp/article.php/3586411)</dt>
+ [JavaScript Basics Part 1](https://www.htmlgoodies.com/primers/jsp/article.php/3586411) 
 
- [JavaScript beginner tutorial 30 - form validation text boxes and passwords - YouTube](https://www.youtube.com/watch?v=y5UEXujzSag)</dt>
+ [JavaScript beginner tutorial 30 - form validation text boxes and passwords - YouTube](https://www.youtube.com/watch?v=y5UEXujzSag) 
 
- [JavaScript: Simple Form Validation - YouTube](https://www.youtube.com/watch?v=_Z-0cwONN6c)</dt>
+ [JavaScript: Simple Form Validation - YouTube](https://www.youtube.com/watch?v=_Z-0cwONN6c) 
 
- [Learn JavaScript in 12 Minutes - YouTube](https://www.youtube.com/watch?v=Ukg_U3CnJWI)</dt>
+ [Learn JavaScript in 12 Minutes - YouTube](https://www.youtube.com/watch?v=Ukg_U3CnJWI) 
 
- [Machine Learning with JavaScript : Part 1 – Hacker Noon](https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5)</dt>
+ [Machine Learning with JavaScript : Part 1 – Hacker Noon](https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5) 
 
- [Machine Learning with JavaScript : Part 2 – Hacker Noon](https://hackernoon.com/machine-learning-with-javascript-part-2-da994c17d483)</dt>
+ [Machine Learning with JavaScript : Part 2 – Hacker Noon](https://hackernoon.com/machine-learning-with-javascript-part-2-da994c17d483) 
 
- [W3School - JavaScript Form Validation](https://www.w3schools.com/js/js_validation.asp)</dt>
+ [W3School - JavaScript Form Validation](https://www.w3schools.com/js/js_validation.asp) 
 
- [W3schools - JavaScript Tutorial](https://www.w3schools.com/js/)</dt>
+ [W3schools - JavaScript Tutorial](https://www.w3schools.com/js/) 
 
 </dl>
 
-</dt>
+ 
 
- [ClearlyDecoded.com - Yaakov Chaikin](https://clearlydecoded.com/)</dt>
+ [ClearlyDecoded.com - Yaakov Chaikin](https://clearlydecoded.com/) 
 
- [GoDaddy Hosting Account Getting Started Guide](https://www.godaddy.com/help/hosting-account-getting-started-guide-1361)</dt>
+ [GoDaddy Hosting Account Getting Started Guide](https://www.godaddy.com/help/hosting-account-getting-started-guide-1361) 
 
- [How to Make A Website in 2018 - Web Hosting Guide | WHSR](https://www.webhostingsecretrevealed.net/web-hosting-beginner-guide/)</dt>
+ [How to Make A Website in 2018 - Web Hosting Guide | WHSR](https://www.webhostingsecretrevealed.net/web-hosting-beginner-guide/) 
 
  [jhu-ep-coursera/fullstack-course4: Example code for HTML, CSS, and Javascript for Web Developers Coursera Course](https://github.com/jhu-ep-coursera/fullstack-course4)

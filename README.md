@@ -99,7 +99,7 @@ All my best choice resource links for data science in one place
 
  [GitHub (Tirthajyoti Sarkar)](https://github.com/tirthajyoti)</dt>
 
-### MOOC related
+## MOOC related
 
  [200 universities just launched 560 free online courses. Here’s the full list.](https://medium.freecodecamp.org/200-universities-just-launched-560-free-online-courses-heres-the-full-list-d9dd13600b04)
 
@@ -135,7 +135,7 @@ All my best choice resource links for data science in one place
 
  [Scilab Help](https://help.scilab.org/docs/6.0.0/en_US/index.html)
 
-### SQL
+## SQL
 
  [A Visual Explanation of SQL Joins](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
 
@@ -153,7 +153,7 @@ All my best choice resource links for data science in one place
 
  [Thinking in SQL vs Thinking in Python](https://blog.modeanalytics.com/learning-python-sql/)
 
-### Statistics
+## Statistics
 
  [Regression Analysis Tutorial and Examples | Minitab](http://blog.minitab.com/blog/adventures-in-statistics-2/regression-analysis-tutorial-and-examples)</dt>
 
@@ -161,7 +161,7 @@ All my best choice resource links for data science in one place
 
  [Welcome to STAT 505! | STAT 505](https://onlinecourses.science.psu.edu/stat505/node/1)
 
-### Visualizations
+## Visualizations
 [designing-great-visualizations.pdf](https://www.tableau.com/sites/default/files/media/designing-great-visualizations.pdf)
 
 [Gallery of Data Visualization - Missed Opportunities and Graphical Failures](http://www.datavis.ca/gallery/missed.php)
@@ -204,12 +204,7 @@ All my best choice resource links for data science in one place
 
  
 
-### General Data Science Issues
-
-  [Engineers Shouldn’t Write ETL: A Guide to Building a High Functioning Data Science Department | Stitch Fix Technology – Multithreaded](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/)</dt>
-
-
-### Interesting Articles
+## Interesting Articles
 
  [46 Most Intellectually Stimulating Sites That Will Spark Your Inner Genius in 10 Minutes a Day](https://medium.com/swlh/in-less-than-10-minutes-a-day-these-46-intellectually-stimulating-sites-will-spark-your-inner-d96ee6fc8387)</dt>
 
@@ -217,6 +212,8 @@ All my best choice resource links for data science in one place
 
  [Edward Witten Ponders the Nature of Reality | Quanta Magazine](https://www.quantamagazine.org/edward-witten-ponders-the-nature-of-reality-20171128/)</dt>
 
+   [Engineers Shouldn’t Write ETL: A Guide to Building a High Functioning Data Science Department | Stitch Fix Technology – Multithreaded](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/)
+   
  [General Thinking Tools: 9 Mental Models to Solve Difficult Problems](https://www.fs.blog/general-thinking-tools/?utm_source=pocket&utm_medium=email&utm_campaign=pockethits)</dt>
 
  [How Social Media Endangers Knowledge | WIRED](https://www.wired.com/story/wikipedias-fate-shows-how-the-web-endangers-knowledge/)</dt>
@@ -245,43 +242,9 @@ All my best choice resource links for data science in one place
 
  [Machine Learning Confronts the Elephant in the Room | Quanta Magazine](https://www.quantamagazine.org/machine-learning-confronts-the-elephant-in-the-room-20180920/)</dt>
 
-</dl>
-
-</dt>
-
- 
-
-### Machine Learning
-
- 
-
- 
-
-### Keras
-
- 
-
- [Guide to the Sequential model - Keras Documentation](https://keras.io/getting-started/sequential-model-guide/)</dt>
-
- [Keras Documentation](https://keras.io/)</dt>
-
- [How to Use Word Embedding Layers for Deep Learning with Keras - Machine Learning Mastery](https://machinelearningmastery.com/use-word-embedding-layers-deep-learning-keras/)</dt>
-
-</dl>
-
-</dt>
-
- 
-
-### Neural Network
-
- 
-
- 
+## Neural Network
 
 ### Videos
-
- 
 
  [Brandon Rohrer - Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM)](https://www.youtube.com/watch?v=WCUNPb-5EYI)</dt>
 
@@ -323,6 +286,14 @@ All my best choice resource links for data science in one place
 
  [J Alammar – Explorations in touchable pixels and intelligent androids](http://jalammar.github.io/)</dt>
 
+### Keras
+
+ [Guide to the Sequential model - Keras Documentation](https://keras.io/getting-started/sequential-model-guide/)
+
+ [Keras Documentation](https://keras.io/)
+
+ [How to Use Word Embedding Layers for Deep Learning with Keras - Machine Learning Mastery](https://machinelearningmastery.com/use-word-embedding-layers-deep-learning-keras/)
+ 
 ### TensorFlow
 
  [Building Input Functions with tf.estimator  |  TensorFlow](https://www.tensorflow.org/get_started/input_fn)</dt>

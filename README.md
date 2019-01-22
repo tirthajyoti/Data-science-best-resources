@@ -101,31 +101,39 @@ All my best choice resource links for data science in one place
 
 ## MOOC related
 
- [200 universities just launched 560 free online courses. Here’s the full list.](https://medium.freecodecamp.org/200-universities-just-launched-560-free-online-courses-heres-the-full-list-d9dd13600b04)
+[200 universities just launched 560 free online courses. Here’s the full list.](https://medium.freecodecamp.org/200-universities-just-launched-560-free-online-courses-heres-the-full-list-d9dd13600b04)</dt>
 
- [Dashboard | MIT Professional Education Digital Programs](https://mitprofessionalx.mit.edu/dashboard)
+ [Artificial Intelligence | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm)</dt>
 
- [Data Science A-Z™: Real-Life Data Science Exercises Included | Udemy](https://www.udemy.com/datascience/)
+ [Dashboard | MIT Professional Education Digital Programs](https://mitprofessionalx.mit.edu/dashboard)</dt>
 
- [Data Science Essentials | edX](https://www.edx.org/course/data-science-essentials-microsoft-dat203-1x-2?source=aw&awc=6798_1489913955_d9818a031ea60b9e133f81baa8e0fcbb&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=315645_LearnDataSci)
+ [Data Science A-Z™: Real-Life Data Science Exercises Included | Udemy](https://www.udemy.com/datascience/)</dt>
 
- [How to choose effective MOOCs for machine learning and data science?](https://medium.com/@tirthajyoti/how-to-choose-effective-moocs-for-machine-learning-and-data-science-8681700ed83f)
+ [Data Science Essentials | edX](https://www.edx.org/course/data-science-essentials-microsoft-dat203-1x-2?source=aw&awc=6798_1489913955_d9818a031ea60b9e133f81baa8e0fcbb&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=315645_LearnDataSci)</dt>
+
+ [How to choose effective MOOCs for machine learning and data science?](https://medium.com/@tirthajyoti/how-to-choose-effective-moocs-for-machine-learning-and-data-science-8681700ed83f)</dt>
+
+ [I uncovered 1,150+ Coursera courses that are still completely free](https://medium.freecodecamp.org/coursera-free-online-courses-6d84cdb30da)
+
+ [Information and Entropy | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-050j-information-and-entropy-spring-2008/index.htm)
+
+ [Introduction to Algorithms | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
 
  [Introduction to Data Analysis using Excel | edX](https://www.edx.org/course/introduction-data-analysis-using-excel-microsoft-dat205x-0)
 
  [Introduction to Python for Data Science | edX](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-4?source=aw&awc=6798_1489913492_c663da04f25e4339087686b358457f93&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=315645_LearnDataSci#!)
 
-[Introduction to R for Data Science | edX](https://www.edx.org/course/introduction-r-data-science-microsoft-dat204x-3)
+ [Introduction to R for Data Science | edX](https://www.edx.org/course/introduction-r-data-science-microsoft-dat204x-3)
 
-[Programming with Python for Data Science!](https://courses.edx.org/courses/course-v1:Microsoft+DAT210x+2T2017/info)
+ [Mathematics for Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
 
-[Statistical Thinking for Data Science course](https://courses.edx.org/courses/course-v1:ColumbiaX+DS101X+1T2016/courseware/83b2b74597c44d858f1cd81edef2faf2/9ba7caa9efaf4b86b7521534f9c841d5/)
+ [Programming with Python for Data Science!](https://courses.edx.org/courses/course-v1:Microsoft+DAT210x+2T2017/info)
 
-[Top Data Science Online Courses in 2017 – LearnDataSci](http://www.learndatasci.com/best-data-science-online-courses/)
+ [Statistical Thinking for Data Science course](https://courses.edx.org/courses/course-v1:ColumbiaX+DS101X+1T2016/courseware/83b2b74597c44d858f1cd81edef2faf2/9ba7caa9efaf4b86b7521534f9c841d5/)
 
-[U. Wash ML course Jupyter Home](https://hub.coursera-notebooks.org/user/hwxlouxsysrhhnfzzinqjs/tree)
+ [Top Data Science Online Courses in 2017 – LearnDataSci](http://www.learndatasci.com/best-data-science-online-courses/)
 
-[I uncovered 1,150+ Coursera courses that are still completely free](https://medium.freecodecamp.org/coursera-free-online-courses-6d84cdb30da)
+ [U. Wash ML course Jupyter Home](https://hub.coursera-notebooks.org/user/hwxlouxsysrhhnfzzinqjs/tree)
 
 ### Scilab
 
@@ -154,6 +162,22 @@ All my best choice resource links for data science in one place
  [Thinking in SQL vs Thinking in Python](https://blog.modeanalytics.com/learning-python-sql/)
 
 ## Statistics
+
+ [Background: Markov chains](https://d18ky98rnyall9.cloudfront.net/_adadc80290e52a99b282ca9d7c1a41ee_background_MarkovChains.html?Expires=1530662400&Signature=dyYfpdwOHuBi5luAmaXehcD15BI-EjW0w5Cd1K3GZMm0odFsXVM7d8ghhjZNbcb91SFVGlsvoPbCxYR-Mq3eld8ayV9FcFiI2tAvjKY0VTwPLUFmMbIfPYMv~uF07q3RIaZyWuM5vqvX526eLuYbbBzG6ZAaOhI7sPF9rb2iio4_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)</dt>
+
+ [OpenIntro Stats](https://www.openintro.org/index.php)</dt>
+
+ [Regression Analysis Tutorial and Examples | Minitab](http://blog.minitab.com/blog/adventures-in-statistics-2/regression-analysis-tutorial-and-examples)</dt>
+
+ [The 10 Statistical Techniques Data Scientists Need to Master](https://towardsdatascience.com/the-10-statistical-techniques-data-scientists-need-to-master-1ef6dbd531f7)</dt>
+
+ [The Ultimate Guide to 12 Dimensionality Reduction Techniques (with Python codes)](https://medium.com/analytics-vidhya/the-ultimate-guide-to-12-dimensionality-reduction-techniques-with-python-codes-2c2afdbc09e3)</dt>
+
+ [Thomas Bayes and the crisis in science – TheTLS](https://www.the-tls.co.uk/articles/public/thomas-bayes-science-crisis/)</dt>
+
+ [Welcome to STAT 505! | STAT 505](https://onlinecourses.science.psu.edu/stat505/node/1)</dt>
+
+ [Introduction to Bayesian Linear Regression – Towards Data Science](https://towardsdatascience.com/introduction-to-bayesian-linear-regression-e66e60791ea7)</dt>
 
  [Regression Analysis Tutorial and Examples | Minitab](http://blog.minitab.com/blog/adventures-in-statistics-2/regression-analysis-tutorial-and-examples)</dt>
 
@@ -202,9 +226,7 @@ All my best choice resource links for data science in one place
 
  [Homework 3](file:///C:/Users/Tirtha/Documents/Personal/GaTech%20OMSA/Courses/Fall%202018/ISYE%206501%20-%20Introduction%20to%20Analytics%20Modeling/HW/HW-3/Peer%20Review/2/Homework_3.html)
 
- 
-
-## Interesting Articles
+ ## Interesting Articles
 
  [46 Most Intellectually Stimulating Sites That Will Spark Your Inner Genius in 10 Minutes a Day](https://medium.com/swlh/in-less-than-10-minutes-a-day-these-46-intellectually-stimulating-sites-will-spark-your-inner-d96ee6fc8387)</dt>
 
@@ -372,7 +394,7 @@ All my best choice resource links for data science in one place
 
  [When algorithms go wrong we need power to fight back, say researchers - The Verge](https://www.theverge.com/2018/12/8/18131745/ai-now-algorithmic-accountability-2018-report-facebook-microsoft-google)</dt>
 
-### Apache Spark
+## Apache Spark
 
  [Building A Linear Regression with PySpark and MLlib](https://towardsdatascience.com/building-a-linear-regression-with-pyspark-and-mllib-d065c3ba246a)</dt>
 
@@ -396,8 +418,6 @@ All my best choice resource links for data science in one place
 
 ### Books, Courses, Repos
 
- 
-
  [Machine Learning Math book](https://mml-book.github.io/)</dt>
 
  [Learn to code | Codecademy](https://www.codecademy.com/)</dt>
@@ -406,23 +426,9 @@ All my best choice resource links for data science in one place
 
  [60+ Free Books on Big Data, Data Science, Data Mining, Machine Learning, Python, R, and more](http://www.kdnuggets.com/2015/09/free-data-science-books.html)</dt>
 
-</dl>
-
-</dt>
-
- 
-
-### Cloud computing
-
- 
+## Cloud computing
 
  [Cloud Computing Tutorial for Beginners | Cloud Computing Explained | Cloud Computing | Simplilearn - YouTube](https://www.youtube.com/watch?v=RWgW-CgdIk0)</dt>
-
-</dl>
-
-</dt>
-
- 
 
 ### Computation, Computing
 
@@ -441,15 +447,7 @@ All my best choice resource links for data science in one place
 
   [A Brief Overview of Outlier Detection Techniques – Towards Data Science](https://towardsdatascience.com/a-brief-overview-of-outlier-detection-techniques-1e0b2c19e561)</dt>
 
-</dl>
-
-</dt>
-
- 
-
-### Docker, Containers
-
- 
+## Docker, Containers
 
  [A Beginner-Friendly Introduction to Containers, VMs and Docker](https://medium.freecodecamp.org/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b)</dt>
 
@@ -473,27 +471,70 @@ All my best choice resource links for data science in one place
 
  [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)</dt>
 
-</dl>
 
-</dt>
+## Web Technologies
 
- 
+### REST, API, Microservice
+
+  [GraphQL vs. REST – Apollo GraphQL](https://blog.apollographql.com/graphql-vs-rest-5d425123e34b)</dt>
+
+ [Microservices, APIs, and Swagger: How They Fit Together | Swagger](https://swagger.io/blog/api-strategy/microservices-apis-and-swagger/)</dt>
+
+ [REST API concepts and examples - YouTube](https://www.youtube.com/watch?v=7YcW25PHnAA)</dt>
+
+ [Web Architecture 101 – VideoBlocks Product & Engineering](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)</dt>
+
+ [REST API & RESTful Web Services Explained - YouTube](https://www.youtube.com/watch?v=LooL6_chvN4)</dt>
+
+ [Our Collections – Towards Data Science](https://towardsdatascience.com/our-collections-3920888f831c)</dt>
 
 ### JSON, XML, HTML
 
+[JSON Crash Course - YouTube](https://www.youtube.com/watch?v=wI1CWzNtE-M)
+[Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/)
+[HTML5 Form Validation Examples < HTML | The Art of Web](http://www.the-art-of-web.com/html/html5-form-validation/)
  
+### CSS
 
- [JSON Crash Course - YouTube](https://www.youtube.com/watch?v=wI1CWzNtE-M)</dt>
+  [Creating a Simple Website with HTML and CSS - Part 1 - YouTube](https://www.youtube.com/watch?v=A3Xgz9PHGuA)</dt>
 
-</dl>
+ [CSS Introduction - W3Schools](https://www.w3schools.com/css/css_intro.asp)</dt>
 
-</dt>
+ [Learn CSS in 12 Minutes - YouTube](https://www.youtube.com/watch?v=0afZj1G0BIE)</dt>
 
- 
+### JavaScript
 
-### LaTeX, Markdown, reST
+ [Beginner JavaScript Tutorial - 1 - Introduction to JavaScript - YouTube](https://www.youtube.com/watch?v=yQaAGmHNn9s)</dt>
 
- 
+ [Eloquent JavaScript](http://eloquentjavascript.net/) 
+
+ [Form Validation with JavaScript - Check for an Empty Text Field - YouTube](https://www.youtube.com/watch?v=Pc2e2YpKArg) 
+
+ [JavaScript Basics Part 1](https://www.htmlgoodies.com/primers/jsp/article.php/3586411) 
+
+ [JavaScript beginner tutorial 30 - form validation text boxes and passwords - YouTube](https://www.youtube.com/watch?v=y5UEXujzSag) 
+
+ [JavaScript: Simple Form Validation - YouTube](https://www.youtube.com/watch?v=_Z-0cwONN6c) 
+
+ [Learn JavaScript in 12 Minutes - YouTube](https://www.youtube.com/watch?v=Ukg_U3CnJWI) 
+
+ [Machine Learning with JavaScript : Part 1 – Hacker Noon](https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5) 
+
+ [Machine Learning with JavaScript : Part 2 – Hacker Noon](https://hackernoon.com/machine-learning-with-javascript-part-2-da994c17d483) 
+
+ [W3School - JavaScript Form Validation](https://www.w3schools.com/js/js_validation.asp) 
+
+ [W3schools - JavaScript Tutorial](https://www.w3schools.com/js/) 
+
+ [ClearlyDecoded.com - Yaakov Chaikin](https://clearlydecoded.com/) 
+
+ [GoDaddy Hosting Account Getting Started Guide](https://www.godaddy.com/help/hosting-account-getting-started-guide-1361) 
+
+ [How to Make A Website in 2018 - Web Hosting Guide | WHSR](https://www.webhostingsecretrevealed.net/web-hosting-beginner-guide/) 
+
+ [jhu-ep-coursera/fullstack-course4: Example code for HTML, CSS, and Javascript for Web Developers Coursera Course](https://github.com/jhu-ep-coursera/fullstack-course4)
+
+## LaTeX, Markdown, reST
 
  [Art of Problem Solving - LaTeX symbols](https://artofproblemsolving.com/wiki/index.php/LaTeX:Symbols)</dt>
 
@@ -509,16 +550,8 @@ All my best choice resource links for data science in one place
 
  [TeX Commands available in MathJax](http://www.onemathematicalcat.org/MathJaxDocumentation/TeXSyntax.htm)</dt>
 
-</dl>
-
-</dt>
-
+## Linux, OS
  
-
-### Linux, OS
-
- 
-
  [How to Install Ubuntu Linux on VirtualBox on Windows 10 [Step by Step Guide] | It's FOSS](https://itsfoss.com/install-linux-in-virtualbox/)</dt>
 
  [Microsoft PowerShell Tutorial & Training Course – Microsoft Virtual Academy](https://mva.microsoft.com/en-us/training-courses/getting-started-with-microsoft-powershell-8276?l=r54IrOWy_2304984382)</dt>
@@ -529,77 +562,9 @@ All my best choice resource links for data science in one place
 
  [[Solved] Could not get lock /var/lib/dpkg/lock Error in Ubuntu | It's FOSS](https://itsfoss.com/could-not-get-lock-error/)</dt>
 
-</dl>
+## SQL
 
-</dt>
-
- 
-
-### MOOC related
-
- 
-
- [200 universities just launched 560 free online courses. Here’s the full list.](https://medium.freecodecamp.org/200-universities-just-launched-560-free-online-courses-heres-the-full-list-d9dd13600b04)</dt>
-
- [Artificial Intelligence | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm)</dt>
-
- [Dashboard | MIT Professional Education Digital Programs](https://mitprofessionalx.mit.edu/dashboard)</dt>
-
- [Data Science A-Z™: Real-Life Data Science Exercises Included | Udemy](https://www.udemy.com/datascience/)</dt>
-
- [Data Science Essentials | edX](https://www.edx.org/course/data-science-essentials-microsoft-dat203-1x-2?source=aw&awc=6798_1489913955_d9818a031ea60b9e133f81baa8e0fcbb&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=315645_LearnDataSci)</dt>
-
- [How to choose effective MOOCs for machine learning and data science?](https://medium.com/@tirthajyoti/how-to-choose-effective-moocs-for-machine-learning-and-data-science-8681700ed83f)</dt>
-
- [I uncovered 1,150+ Coursera courses that are still completely free](https://medium.freecodecamp.org/coursera-free-online-courses-6d84cdb30da)</dt>
-
- [Information and Entropy | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-050j-information-and-entropy-spring-2008/index.htm)</dt>
-
- [Introduction to Algorithms | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)</dt>
-
- [Introduction to Data Analysis using Excel | edX](https://www.edx.org/course/introduction-data-analysis-using-excel-microsoft-dat205x-0)</dt>
-
- [Introduction to Python for Data Science | edX](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-4?source=aw&awc=6798_1489913492_c663da04f25e4339087686b358457f93&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=315645_LearnDataSci#!)</dt>
-
- [Introduction to R for Data Science | edX](https://www.edx.org/course/introduction-r-data-science-microsoft-dat204x-3)</dt>
-
- [Mathematics for Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)</dt>
-
- [Programming with Python for Data Science!](https://courses.edx.org/courses/course-v1:Microsoft+DAT210x+2T2017/info)</dt>
-
- [Statistical Thinking for Data Science course](https://courses.edx.org/courses/course-v1:ColumbiaX+DS101X+1T2016/courseware/83b2b74597c44d858f1cd81edef2faf2/9ba7caa9efaf4b86b7521534f9c841d5/)</dt>
-
- [Top Data Science Online Courses in 2017 – LearnDataSci](http://www.learndatasci.com/best-data-science-online-courses/)</dt>
-
- [U. Wash ML course Jupyter Home](https://hub.coursera-notebooks.org/user/hwxlouxsysrhhnfzzinqjs/tree)</dt>
-
-</dl>
-
-</dt>
-
- 
-
-### Scilab
-
- 
-
- [Documentation / Resources / Home - Scilab](http://www.scilab.org/resources/documentation)</dt>
-
- [Matlab-Scilab equivalents](https://help.scilab.org/docs/5.5.2/en_US/section_36184e52ee88ad558380be4e92d3de21.html)</dt>
-
- [Scilab Help](https://help.scilab.org/docs/6.0.0/en_US/index.html)</dt>
-
-</dl>
-
-</dt>
-
- 
-
-### SQL
-
- 
-
- [A Visual Explanation of SQL Joins](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)</dt>
+[A Visual Explanation of SQL Joins](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)</dt>
 
  [Join (SQL) - Wikipedia](https://en.wikipedia.org/wiki/Join_(SQL))</dt>
 
@@ -617,41 +582,7 @@ All my best choice resource links for data science in one place
 
  [SQL vs NoSQL or MySQL vs MongoDB - YouTube](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)</dt>
 
-</dl>
-
-</dt>
-
- 
-
-### Statistics
-
- 
-
- [Background: Markov chains](https://d18ky98rnyall9.cloudfront.net/_adadc80290e52a99b282ca9d7c1a41ee_background_MarkovChains.html?Expires=1530662400&Signature=dyYfpdwOHuBi5luAmaXehcD15BI-EjW0w5Cd1K3GZMm0odFsXVM7d8ghhjZNbcb91SFVGlsvoPbCxYR-Mq3eld8ayV9FcFiI2tAvjKY0VTwPLUFmMbIfPYMv~uF07q3RIaZyWuM5vqvX526eLuYbbBzG6ZAaOhI7sPF9rb2iio4_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)</dt>
-
- [OpenIntro Stats](https://www.openintro.org/index.php)</dt>
-
- [Regression Analysis Tutorial and Examples | Minitab](http://blog.minitab.com/blog/adventures-in-statistics-2/regression-analysis-tutorial-and-examples)</dt>
-
- [The 10 Statistical Techniques Data Scientists Need to Master](https://towardsdatascience.com/the-10-statistical-techniques-data-scientists-need-to-master-1ef6dbd531f7)</dt>
-
- [The Ultimate Guide to 12 Dimensionality Reduction Techniques (with Python codes)](https://medium.com/analytics-vidhya/the-ultimate-guide-to-12-dimensionality-reduction-techniques-with-python-codes-2c2afdbc09e3)</dt>
-
- [Thomas Bayes and the crisis in science – TheTLS](https://www.the-tls.co.uk/articles/public/thomas-bayes-science-crisis/)</dt>
-
- [Welcome to STAT 505! | STAT 505](https://onlinecourses.science.psu.edu/stat505/node/1)</dt>
-
- [Introduction to Bayesian Linear Regression – Towards Data Science](https://towardsdatascience.com/introduction-to-bayesian-linear-regression-e66e60791ea7)</dt>
-
-</dl>
-
-</dt>
-
- 
-
-### Time series
-
- 
+## Time series 
 
  [Time Series Analysis in Python: An Introduction – Towards Data Science](https://towardsdatascience.com/time-series-analysis-in-python-an-introduction-70d5a5b1d52a)</dt>
 
@@ -667,15 +598,7 @@ All my best choice resource links for data science in one place
 
  [How to Create an ARIMA Model for Time Series Forecasting with Python](https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/)</dt>
 
-</dl>
-
-</dt>
-
- 
-
-### Visualizations
-
- 
+## Visualizations
 
  [designing-great-visualizations.pdf](https://www.tableau.com/sites/default/files/media/designing-great-visualizations.pdf)</dt>
 
@@ -693,37 +616,8 @@ All my best choice resource links for data science in one place
 
  [GGobi data visualization system.](http://www.ggobi.org/)</dt>
 
-</dl>
 
-</dt>
-
- 
-
-### Web Technologies
-
- 
-
- [GraphQL vs. REST – Apollo GraphQL](https://blog.apollographql.com/graphql-vs-rest-5d425123e34b)</dt>
-
- [Microservices, APIs, and Swagger: How They Fit Together | Swagger](https://swagger.io/blog/api-strategy/microservices-apis-and-swagger/)</dt>
-
- [REST API concepts and examples - YouTube](https://www.youtube.com/watch?v=7YcW25PHnAA)</dt>
-
- [Web Architecture 101 – VideoBlocks Product & Engineering](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)</dt>
-
- [REST API & RESTful Web Services Explained - YouTube](https://www.youtube.com/watch?v=LooL6_chvN4)</dt>
-
-</dl>
-
-</dt>
-
- [Our Collections – Towards Data Science](https://towardsdatascience.com/our-collections-3920888f831c)</dt>
-
-
-
- 
-
-### Interesting Articles
+## Interesting Articles
 
  [Artificial Intelligence — The Revolution Hasn’t Happened Yet](https://medium.com/@mijordan3/artificial-intelligence-the-revolution-hasnt-happened-yet-5e1d5812e1e7)</dt>
 
@@ -803,7 +697,7 @@ All my best choice resource links for data science in one place
 
  [The blind spot of science is the neglect of lived experience | Aeon Essays](https://aeon.co/essays/the-blind-spot-of-science-is-the-neglect-of-lived-experience)</dt>
 
- ### Julia
+ ## Julia
 
  [A Complete Tutorial to Learn Data Science with Julia from Scratch](https://www.analyticsvidhya.com/blog/2017/10/comprehensive-tutorial-learn-data-science-julia-from-scratch/)</dt>
 
@@ -833,15 +727,7 @@ All my best choice resource links for data science in one place
 
  [Deploying a Keras Deep Learning Model as a Web Application in P](https://towardsdatascience.com/deploying-a-keras-deep-learning-model-as-a-web-application-in-p-fc0f2354a7ff)</dt>
 
-</dl>
-
-</dt>
-
- 
-
 ### Genetic Algorithm
-
- 
 
  [Genetic Algorithm Implementation in Python – Towards Data Science](https://towardsdatascience.com/genetic-algorithm-implementation-in-python-5ab67bb124a6)</dt>
 
@@ -927,8 +813,6 @@ All my best choice resource links for data science in one place
 
 ### NLP
 
- 
-
  [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)</dt>
 
  [Coding & English Lit: Natural Language Processing in Python](https://medium.com/@kellylougheed/coding-english-lit-natural-language-processing-in-python-ba8ebae4dde3)</dt>
@@ -937,15 +821,7 @@ All my best choice resource links for data science in one place
 
  [Python Regular Expression Tutorial (article) - DataCamp](https://www.datacamp.com/community/tutorials/python-regular-expression-tutorial)</dt>
 
-</dl>
-
-</dt>
-
- 
-
 ### Reinforcement Learning
-
- 
 
  [A brief introduction to reinforcement learning – freeCodeCamp.org](https://medium.freecodecamp.org/a-brief-introduction-to-reinforcement-learning-7799af5840db)</dt>
 
@@ -969,8 +845,6 @@ All my best choice resource links for data science in one place
 
 ### TensorFlow
 
- 
-
  [Building Input Functions with tf.estimator  |  TensorFlow](https://www.tensorflow.org/get_started/input_fn)</dt>
 
  [Getting Started With TensorFlow  |  TensorFlow](https://www.tensorflow.org/get_started/get_started)</dt>
@@ -985,11 +859,7 @@ All my best choice resource links for data science in one place
 
  [Using TensorFlow in Windows with a GPU | Heaton Research](http://www.heatonresearch.com/2017/01/01/tensorflow-windows-gpu.html)</dt>
 
- [Installation Guide Windows :: CUDA Toolkit Documentation](http://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/)</dt>
-
-</dl>
-
-</dt>
+ [Installation Guide Windows :: CUDA Toolkit Documentation](http://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/)
 
  [7 Steps to Mastering Machine Learning With Python](https://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html)</dt>
 
@@ -1031,7 +901,6 @@ All my best choice resource links for data science in one place
 
  [Learning to Optimize with Reinforcement Learning – The Berkeley Artificial Intelligence Research Blog](https://bair.berkeley.edu/blog/2017/09/12/learning-to-optimize-with-rl/)</dt>
 
-
 ## Python
 
 ### Jupyter related
@@ -1060,11 +929,9 @@ All my best choice resource links for data science in one place
 
  [Seaborn tutorial — seaborn 0.7.1 documentation](http://seaborn.pydata.org/tutorial.html)</dt>
 
-## MOOC courses
+### MOOC courses
 
-### Udemy Jose Portilla
-
- [Github/jmportilla/Complete-Python-Bootcamp: Lectures](https://github.com/jmportilla/Complete-Python-Bootcamp)</dt>
+[Github/jmportilla/Complete-Python-Bootcamp: Lectures](https://github.com/jmportilla/Complete-Python-Bootcamp)</dt>
 
  [Jupyter Notebook - Udemy Complete Python Bootcamp course](http://nbviewer.jupyter.org/github/jmportilla/Complete-Python-Bootcamp/tree/master/)</dt>
 
@@ -1131,10 +998,6 @@ All my best choice resource links for data science in one place
 
  [Using BeautifulSoup to parse HTML and extract press briefings URLs | Computational Journalism, Spring 2016](http://www.compjour.org/warmups/govt-text-releases/intro-to-bs4-lxml-parsing-wh-press-briefings/)</dt>
 
-</dl>
-
-</dt>
-
  [28 Jupyter Notebook tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)</dt>
 
  [A curated list of awesome Python frameworks, libraries, software and resources](https://github.com/vinta/awesome-python)</dt>
@@ -1183,12 +1046,6 @@ All my best choice resource links for data science in one place
 
  [Python IDEs and Code Editors (Guide) – Real Python](https://realpython.com/python-ides-code-editors-guide/)</dt>
 
-</dl>
-
-</dt>
-
- 
-
 ## R related
 
  [A Beginner’s Guide to Neural Networks with R](http://www.kdnuggets.com/2016/08/begineers-guide-neural-networks-r.html)</dt>
@@ -1220,51 +1077,4 @@ All my best choice resource links for data science in one place
 
 ## Web Dev
 
-### CSS
 
-  [Creating a Simple Website with HTML and CSS - Part 1 - YouTube](https://www.youtube.com/watch?v=A3Xgz9PHGuA)</dt>
-
- [CSS Introduction - W3Schools](https://www.w3schools.com/css/css_intro.asp)</dt>
-
- [Learn CSS in 12 Minutes - YouTube](https://www.youtube.com/watch?v=0afZj1G0BIE)</dt>
-
-### HTML
- [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/)</dt>
-
- [HTML5 Form Validation Examples < HTML | The Art of Web](http://www.the-art-of-web.com/html/html5-form-validation/)</dt>
-
-### JavaScript
-
- [Beginner JavaScript Tutorial - 1 - Introduction to JavaScript - YouTube](https://www.youtube.com/watch?v=yQaAGmHNn9s)</dt>
-
- [Eloquent JavaScript](http://eloquentjavascript.net/) 
-
- [Form Validation with JavaScript - Check for an Empty Text Field - YouTube](https://www.youtube.com/watch?v=Pc2e2YpKArg) 
-
- [JavaScript Basics Part 1](https://www.htmlgoodies.com/primers/jsp/article.php/3586411) 
-
- [JavaScript beginner tutorial 30 - form validation text boxes and passwords - YouTube](https://www.youtube.com/watch?v=y5UEXujzSag) 
-
- [JavaScript: Simple Form Validation - YouTube](https://www.youtube.com/watch?v=_Z-0cwONN6c) 
-
- [Learn JavaScript in 12 Minutes - YouTube](https://www.youtube.com/watch?v=Ukg_U3CnJWI) 
-
- [Machine Learning with JavaScript : Part 1 – Hacker Noon](https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5) 
-
- [Machine Learning with JavaScript : Part 2 – Hacker Noon](https://hackernoon.com/machine-learning-with-javascript-part-2-da994c17d483) 
-
- [W3School - JavaScript Form Validation](https://www.w3schools.com/js/js_validation.asp) 
-
- [W3schools - JavaScript Tutorial](https://www.w3schools.com/js/) 
-
-</dl>
-
- 
-
- [ClearlyDecoded.com - Yaakov Chaikin](https://clearlydecoded.com/) 
-
- [GoDaddy Hosting Account Getting Started Guide](https://www.godaddy.com/help/hosting-account-getting-started-guide-1361) 
-
- [How to Make A Website in 2018 - Web Hosting Guide | WHSR](https://www.webhostingsecretrevealed.net/web-hosting-beginner-guide/) 
-
- [jhu-ep-coursera/fullstack-course4: Example code for HTML, CSS, and Javascript for Web Developers Coursera Course](https://github.com/jhu-ep-coursera/fullstack-course4)

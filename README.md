@@ -15,77 +15,91 @@ All my best choice resource links for data science in one place
 
  [AWS Concepts: Understanding AWS - YouTube](https://www.youtube.com/watch?v=qcY-uiEHhn0)</dt>
 
- [AWS Concepts: Understanding the Course Material & Features - YouTube](https://www.youtube.com/watch?v=LKStwibxbR0&list=PLv2a_5pNAko2Jl4Ks7V428ttvy-Fj4NKU)</dt>
+ [AWS Concepts: Understanding the Course Material & Features - YouTube](https://www.youtube.com/watch?v=LKStwibxbR0&list=PLv2a_5pNAko2Jl4Ks7V428ttvy-Fj4NKU)
 
- [AWS In 10 Minutes | AWS Tutorial For Beginners | AWS Training Video | AWS Tutorial | Simplilearn - YouTube](https://www.youtube.com/watch?v=r4YIdn2eTm4)</dt>
+ [AWS In 10 Minutes | AWS Tutorial For Beginners | AWS Training Video | AWS Tutorial | Simplilearn - YouTube](https://www.youtube.com/watch?v=r4YIdn2eTm4)
 
- [AWS re:Invent 2017: Building production apps easily with Amazon Lightsail (CMP212) - YouTube](https://www.youtube.com/watch?v=29_LqYnomdg)</dt>
+ [AWS re:Invent 2017: Building production apps easily with Amazon Lightsail (CMP212) - YouTube](https://www.youtube.com/watch?v=29_LqYnomdg)
 
- [Classless Inter-Domain Routing - Wikipedia](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing)</dt>
+ [Classless Inter-Domain Routing - Wikipedia](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing)
 
- [Cloud Compute Products – Amazon Web Services (AWS)](https://aws.amazon.com/products/compute/)</dt>
+ [Cloud Compute Products – Amazon Web Services (AWS)](https://aws.amazon.com/products/compute/)
 
- [Cloud Object Storage | Store & Retrieve Data Anywhere | Amazon Simple Storage Service](https://aws.amazon.com/s3/)</dt>
+ [Cloud Object Storage | Store & Retrieve Data Anywhere | Amazon Simple Storage Service](https://aws.amazon.com/s3/)
 
- [Elastic Load Balancing - Amazon Web Services](https://aws.amazon.com/elasticloadbalancing/)</dt>
+ [Elastic Load Balancing - Amazon Web Services](https://aws.amazon.com/elasticloadbalancing/)
 
- [Getting Spark, Python, and Jupyter Notebook running on Amazon EC2](https://medium.com/@josemarcialportilla/getting-spark-python-and-jupyter-notebook-running-on-amazon-ec2-dec599e1c297)</dt>
+ [Getting Spark, Python, and Jupyter Notebook running on Amazon EC2](https://medium.com/@josemarcialportilla/getting-spark-python-and-jupyter-notebook-running-on-amazon-ec2-dec599e1c297)
 
- [Use PuTTY to access EC2 Linux Instances via SSH from Windows](https://linuxacademy.com/howtoguides/posts/show/topic/17385-use-putty-to-access-ec2-linux-instances-via-ssh-from-windows)</dt>
+ [Use PuTTY to access EC2 Linux Instances via SSH from Windows](https://linuxacademy.com/howtoguides/posts/show/topic/17385-use-putty-to-access-ec2-linux-instances-via-ssh-from-windows)
 
- [What is Cloud Computing? - Amazon Web Services](https://aws.amazon.com/what-is-cloud-computing/)</dt>
-
+ [What is Cloud Computing? - Amazon Web Services](https://aws.amazon.com/what-is-cloud-computing/)
+ 
 ## Blogs, StacksExchanges
 
- [10 Free Must-Read Books for Machine Learning and Data Science](https://www.kdnuggets.com/2017/04/10-free-must-read-books-machine-learning-data-science.html?utm_content=buffer5a67a&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)</dt>
+ [10 Free Must-Read Books for Machine Learning and Data Science](https://www.kdnuggets.com/2017/04/10-free-must-read-books-machine-learning-data-science.html?utm_content=buffer5a67a&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
 
- [Advice to aspiring data scientists: start a blog – Variance Explained](http://varianceexplained.org/r/start-blog/)</dt>
+ [Advice to aspiring data scientists: start a blog – Variance Explained](http://varianceexplained.org/r/start-blog/)
 
- [Brandon Roher Blog](https://brohrer.github.io/blog.html)</dt>
+ [Brandon Roher Blog](https://brohrer.github.io/blog.html)
 
- [Chris Albon - Data Science, Machine Learning, and Artificial Intelligence](https://chrisalbon.com/#Python)</dt>
+ [Chris Albon - Data Science, Machine Learning, and Artificial Intelligence](https://chrisalbon.com/#Python)
 
- [Data Science Stack Exchange](http://datascience.stackexchange.com/)</dt>
+ [Data Science Stack Exchange](http://datascience.stackexchange.com/)
 
- [Data Skeptic](https://dataskeptic.com/)</dt>
+ [Data Skeptic](https://dataskeptic.com/)
 
- [DataTau](http://www.datatau.com/)</dt>
+ [DataTau](http://www.datatau.com/)
 
- [FlowingData](http://flowingdata.com/)</dt>
+ [FlowingData](http://flowingdata.com/)
 
- [Here Are (Approximately) 3000 Free Data Sources You Can Use Right Now](https://www.forbes.com/sites/metabrown/2017/06/30/here-are-approximately-3000-free-sources-for-data-you-can-use-right-now/amp/?utm_content=bufferef401&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)</dt>
+ [Here Are (Approximately) 3000 Free Data Sources You Can Use Right Now](https://www.forbes.com/sites/metabrown/2017/06/30/here-are-approximately-3000-free-sources-for-data-you-can-use-right-now/amp/?utm_content=bufferef401&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
- [If you want to learn Data Science, take a few of these statistics classes](https://medium.freecodecamp.com/if-you-want-to-learn-data-science-take-a-few-of-these-statistics-classes-9bbabab098b9)</dt>
+ [If you want to learn Data Science, take a few of these statistics classes](https://medium.freecodecamp.com/if-you-want-to-learn-data-science-take-a-few-of-these-statistics-classes-9bbabab098b9)
 
- [Learn Data Science - Infographic (article) - DataCamp](https://www.datacamp.com/community/tutorials/learn-data-science-infographic)</dt>
+ [Learn Data Science - Infographic (article) - DataCamp](https://www.datacamp.com/community/tutorials/learn-data-science-infographic)
 
- [LIGO Gravity Wave GW150914_tutorial](https://losc.ligo.org/s/events/GW150914/GW150914_tutorial.html)</dt>
+ [LIGO Gravity Wave GW150914_tutorial](https://losc.ligo.org/s/events/GW150914/GW150914_tutorial.html)
 
- [O.R. & Analytics Success Stories - INFORMS](https://www.informs.org/Impact/O.R.-Analytics-Success-Stories)</dt>
+ [O.R. & Analytics Success Stories - INFORMS](https://www.informs.org/Impact/O.R.-Analytics-Success-Stories)
 
- [OpenAI Blog](https://blog.openai.com/)</dt>
+ [OpenAI Blog](https://blog.openai.com/)
 
- [Paul Ford: What Is Code? | Bloomberg](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)</dt>
+ [Paul Ford: What Is Code? | Bloomberg](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 
- [Science Isn’t Broken | FiveThirtyEight](https://fivethirtyeight.com/features/science-isnt-broken/#part1)</dt>
+ [Science Isn’t Broken | FiveThirtyEight](https://fivethirtyeight.com/features/science-isnt-broken/#part1)
 
- [Scientifically Sound](https://scientificallysound.org/)</dt>
+ [Scientifically Sound](https://scientificallysound.org/)
 
- [AIspace](http://aispace.org/)</dt>
+ [AIspace](http://aispace.org/)
 
- [Top 28 Cheat Sheets for Machine Learning, Data Science, Probability, SQL & Big Data](https://www.analyticsvidhya.com/blog/2017/02/top-28-cheat-sheets-for-machine-learning-data-science-probability-sql-big-data/?utm_content=buffer9e308&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)</dt>
+ [Top 28 Cheat Sheets for Machine Learning, Data Science, Probability, SQL & Big Data](https://www.analyticsvidhya.com/blog/2017/02/top-28-cheat-sheets-for-machine-learning-data-science-probability-sql-big-data/?utm_content=buffer9e308&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
 
- [GitHub Python Data Science Spotlight: AutoML, NLP, Visualization, ML Workflows](https://www.kdnuggets.com/2018/08/github-python-data-science-spotlight.html)</dt>
+ [GitHub Python Data Science Spotlight: AutoML, NLP, Visualization, ML Workflows](https://www.kdnuggets.com/2018/08/github-python-data-science-spotlight.html)
 
 ## Git and Github
 
-  [Adding an existing project to GitHub using the command line - User Documentation](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)
+[Adding an existing project to GitHub using the command line - User Documentation](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)</dt>
 
- [Git - Book](https://git-scm.com/book/en/v2)
+ [An Intro to Git and GitHub for Beginners (Tutorial)](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)</dt>
+
+ [Follow these simple rules and you’ll become a Git and GitHub master](https://medium.freecodecamp.org/follow-these-simple-rules-and-youll-become-a-git-and-github-master-e1045057468f)</dt>
+
+ [Git - Book](https://git-scm.com/book/en/v2)</dt>
+
+ [git - the simple guide - no deep shit!](http://rogerdudler.github.io/git-guide/)</dt>
+
+ [How not to be afraid of GIT anymore – freeCodeCamp.org](https://medium.freecodecamp.org/how-not-to-be-afraid-of-git-anymore-fe1da7415286)</dt>
+
+ [joshnh/Git-Commands: A list of commonly used Git commands](https://github.com/joshnh/Git-Commands)</dt>
+
+ [The beginner’s guide to contributing to a GitHub project – Rob Allen's DevNotes](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/)</dt>
+
+ [Understanding the GitHub Flow · GitHub Guides](https://guides.github.com/introduction/flow/)</dt>
+
+ [GitHub (Tirthajyoti Sarkar)](https://github.com/tirthajyoti)</dt>
 
 ### MOOC related
-
- 
 
  [200 universities just launched 560 free online courses. Here’s the full list.](https://medium.freecodecamp.org/200-universities-just-launched-560-free-online-courses-heres-the-full-list-d9dd13600b04)
 
@@ -280,10 +294,6 @@ All my best choice resource links for data science in one place
  [Siraj Raval - Recurrent Neural Networks - The Math of Intelligence (Week 5) - YouTube](https://www.youtube.com/watch?v=BwmddtPFWtA)</dt>
 
  [Andrew Ng: Artificial Intelligence is the New Electricity - YouTube](https://www.youtube.com/watch?v=21EiKfQYZXc)</dt>
-
-</dl>
-
-</dt>
 
  [A Neural Network Playground](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.53044&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)</dt>
 
@@ -488,45 +498,7 @@ All my best choice resource links for data science in one place
 
  [Building Your Own Data Science Platform With Python & Docker - YouTube](https://www.youtube.com/watch?v=NC2wXYHBrL0)</dt>
 
-</dl>
-
-</dt>
-
- 
-
-### Git and Github
-
- 
-
- [Adding an existing project to GitHub using the command line - User Documentation](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)</dt>
-
- [An Intro to Git and GitHub for Beginners (Tutorial)](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)</dt>
-
- [Follow these simple rules and you’ll become a Git and GitHub master](https://medium.freecodecamp.org/follow-these-simple-rules-and-youll-become-a-git-and-github-master-e1045057468f)</dt>
-
- [Git - Book](https://git-scm.com/book/en/v2)</dt>
-
- [git - the simple guide - no deep shit!](http://rogerdudler.github.io/git-guide/)</dt>
-
- [How not to be afraid of GIT anymore – freeCodeCamp.org](https://medium.freecodecamp.org/how-not-to-be-afraid-of-git-anymore-fe1da7415286)</dt>
-
- [joshnh/Git-Commands: A list of commonly used Git commands](https://github.com/joshnh/Git-Commands)</dt>
-
- [The beginner’s guide to contributing to a GitHub project – Rob Allen's DevNotes](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/)</dt>
-
- [Understanding the GitHub Flow · GitHub Guides](https://guides.github.com/introduction/flow/)</dt>
-
- [GitHub (Tirthajyoti Sarkar)](https://github.com/tirthajyoti)</dt>
-
-</dl>
-
-</dt>
-
- 
-
 ### Interview related
-
- 
 
  [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)</dt>
 

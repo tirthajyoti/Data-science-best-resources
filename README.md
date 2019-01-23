@@ -77,6 +77,18 @@ All my best choice resource links for data science in one place
 
  [GitHub Python Data Science Spotlight: AutoML, NLP, Visualization, ML Workflows](https://www.kdnuggets.com/2018/08/github-python-data-science-spotlight.html)
 
+## Books, Courses, Repos
+
+ [Machine Learning Math book](https://mml-book.github.io/)
+
+ [Learn to code | Codecademy](https://www.codecademy.com/)
+
+ [Lecture Notes | Introduction to MATLAB | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-094-introduction-to-matlab-january-iap-2010/lecture-notes/)
+
+ [60+ Free Books on Big Data, Data Science, Data Mining, Machine Learning, Python, R, and more](http://www.kdnuggets.com/2015/09/free-data-science-books.html)
+ 
+ [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/)
+
 ## Git and Github
 
 [Adding an existing project to GitHub using the command line - User Documentation](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)</dt>
@@ -415,16 +427,6 @@ All my best choice resource links for data science in one place
  [Spark SQL and DataFrames - Spark 2.3.1 Documentation](http://spark.apache.org/docs/latest/sql-programming-guide.html)</dt>
 
  [Welcome to Spark Python API Docs! — PySpark 2.3.1 documentation](http://spark.apache.org/docs/latest/api/python/)</dt>
-
-### Books, Courses, Repos
-
- [Machine Learning Math book](https://mml-book.github.io/)</dt>
-
- [Learn to code | Codecademy](https://www.codecademy.com/)</dt>
-
- [Lecture Notes | Introduction to MATLAB | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-094-introduction-to-matlab-january-iap-2010/lecture-notes/)</dt>
-
- [60+ Free Books on Big Data, Data Science, Data Mining, Machine Learning, Python, R, and more](http://www.kdnuggets.com/2015/09/free-data-science-books.html)</dt>
 
 ## Cloud computing
 

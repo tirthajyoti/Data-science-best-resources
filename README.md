@@ -600,7 +600,9 @@ All my best choice resource links for data science in one place
 
  [Complete guide to create a Time Series Forecast (with Codes in Python)](https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/)</dt>
 
- [How to Create an ARIMA Model for Time Series Forecasting with Python](https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/)</dt>
+ [How to Create an ARIMA Model for Time Series Forecasting with Python](https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/)
+ 
+ [Time series with Siraj course by Kaggle](https://www.kaggle.com/learn/time-series-with-siraj)
 
 ## Visualizations
 

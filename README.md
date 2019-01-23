@@ -50,6 +50,8 @@ All my best choice resource links for data science in one place
  [Data Skeptic](https://dataskeptic.com/)
 
  [DataTau](http://www.datatau.com/)
+ 
+ [explained.ai - Deep explanations of machine learning and related topics](https://explained.ai/)
 
  [FlowingData](http://flowingdata.com/)
 

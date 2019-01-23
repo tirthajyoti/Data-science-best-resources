@@ -174,6 +174,8 @@ All my best choice resource links for data science in one place
  [The SQL Tutorial for Data Analysis | SQL Tutorial - Mode Analytics](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/)
 
  [Thinking in SQL vs Thinking in Python](https://blog.modeanalytics.com/learning-python-sql/)
+ 
+ [Kaggle SQL course (including BigQuery topics)](https://www.kaggle.com/learn/sql)
 
 ## Statistics
 

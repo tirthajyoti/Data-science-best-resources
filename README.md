@@ -78,6 +78,10 @@ All my best choice resource links for data science in one place
  [Top 28 Cheat Sheets for Machine Learning, Data Science, Probability, SQL & Big Data](https://www.analyticsvidhya.com/blog/2017/02/top-28-cheat-sheets-for-machine-learning-data-science-probability-sql-big-data/?utm_content=buffer9e308&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
 
  [GitHub Python Data Science Spotlight: AutoML, NLP, Visualization, ML Workflows](https://www.kdnuggets.com/2018/08/github-python-data-science-spotlight.html)
+ 
+ [Data Science Cheat sheets](https://github.com/FavioVazquez/ds-cheatsheets)
+ 
+ [Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml)
 
 ## Books, Courses, Repos
 
@@ -90,6 +94,8 @@ All my best choice resource links for data science in one place
  [60+ Free Books on Big Data, Data Science, Data Mining, Machine Learning, Python, R, and more](http://www.kdnuggets.com/2015/09/free-data-science-books.html)
  
  [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/)
+ 
+ [The Hundred Page Machine Learning Book](http://themlbook.com/wiki/doku.php)
 
 ## Git and Github
 

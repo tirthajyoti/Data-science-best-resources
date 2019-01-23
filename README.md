@@ -42,6 +42,12 @@ All my best choice resource links for data science in one place
  [Advice to aspiring data scientists: start a blog – Variance Explained](http://varianceexplained.org/r/start-blog/)
 
  [Brandon Roher Blog](https://brohrer.github.io/blog.html)
+ 
+ [Andrew Trask Blog](https://iamtrask.github.io/)
+ 
+ [Andrej Karpathy Blog](karpathy.github.io/)
+ 
+ [Christopher Olah Blog](http://colah.github.io)
 
  [Chris Albon - Data Science, Machine Learning, and Artificial Intelligence](https://chrisalbon.com/#Python)
 

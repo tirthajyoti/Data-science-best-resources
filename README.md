@@ -1056,33 +1056,29 @@ All my best choice resource links for data science in one place
 
 ## R related
 
- [A Beginner’s Guide to Neural Networks with R](http://www.kdnuggets.com/2016/08/begineers-guide-neural-networks-r.html)</dt>
+ [A Beginner’s Guide to Neural Networks with R](http://www.kdnuggets.com/2016/08/begineers-guide-neural-networks-r.html)
 
- [An R Introduction to Statistics | R Tutorial](http://www.r-tutor.com/)</dt>
+ [An R Introduction to Statistics | R Tutorial](http://www.r-tutor.com/)
 
- [Data Manipulation with dplyr | R-bloggers](https://www.r-bloggers.com/data-manipulation-with-dplyr/)</dt>
+ [Data Manipulation with dplyr | R-bloggers](https://www.r-bloggers.com/data-manipulation-with-dplyr/)
 
- [Data Science and Machine Learning Bootcamp with R | Udemy](https://www.udemy.com/data-science-and-machine-learning-bootcamp-with-r/learn/v4/overview)</dt>
+ [Data Science and Machine Learning Bootcamp with R | Udemy](https://www.udemy.com/data-science-and-machine-learning-bootcamp-with-r/learn/v4/overview)
 
- [ggplot2-cheatsheet.pdf](https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf)</dt>
+ [ggplot2-cheatsheet.pdf](https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf)
 
- [Machine Learning A-Z™: Download Practice Datasets - SuperDataScience - Big Data | Analytics Careers | Mentors | Success](https://www.superdatascience.com/machine-learning/)</dt>
+ [Machine Learning A-Z™: Download Practice Datasets - SuperDataScience - Big Data | Analytics Careers | Mentors | Success](https://www.superdatascience.com/machine-learning/)
 
- [Quick-R: Home Page](http://www.statmethods.net/index.html)</dt>
+ [Quick-R: Home Page](http://www.statmethods.net/index.html)
 
- [R mailing lists archive](http://tolstoy.newcastle.edu.au/R/)</dt>
+ [R mailing lists archive](http://tolstoy.newcastle.edu.au/R/)
 
- [R Tutorial Series - Statistical Tests | Saranya Anandh | Pulse | LinkedIn](https://www.linkedin.com/pulse/r-tutorial-series-statistical-tests-saranya-anandh?trk=v-feed&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BDlqO%2B6C4r4CsNhYU4n9rsw%3D%3D)</dt>
+ [R Tutorial Series - Statistical Tests | Saranya Anandh | Pulse | LinkedIn](https://www.linkedin.com/pulse/r-tutorial-series-statistical-tests-saranya-anandh?trk=v-feed&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BDlqO%2B6C4r4CsNhYU4n9rsw%3D%3D)
 
- [R: Control for Rpart Fits](https://stat.ethz.ch/R-manual/R-devel/library/rpart/html/rpart.control.html)</dt>
+ [R: Control for Rpart Fits](https://stat.ethz.ch/R-manual/R-devel/library/rpart/html/rpart.control.html)
 
- [R: Recursive Partitioning and Regression Trees](https://stat.ethz.ch/R-manual/R-devel/library/rpart/html/rpart.html)</dt>
+ [R: Recursive Partitioning and Regression Trees](https://stat.ethz.ch/R-manual/R-devel/library/rpart/html/rpart.html)
 
- [Short-refcard.pdf](https://cran.r-project.org/doc/contrib/Short-refcard.pdf)</dt>
+ [Short-refcard.pdf](https://cran.r-project.org/doc/contrib/Short-refcard.pdf)
 
- [Theme • ggplot2](http://ggplot2.tidyverse.org/reference/theme.html)</dt>
+ [Theme • ggplot2](http://ggplot2.tidyverse.org/reference/theme.html)
  
-
-## Web Dev
-
-

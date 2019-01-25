@@ -149,14 +149,6 @@ All my best choice resource links for data science in one place
 
  [U. Wash ML course Jupyter Home](https://hub.coursera-notebooks.org/user/hwxlouxsysrhhnfzzinqjs/tree)
 
-### Scilab
-
- [Documentation / Resources / Home - Scilab](http://www.scilab.org/resources/documentation)
-
- [Matlab-Scilab equivalents](https://help.scilab.org/docs/5.5.2/en_US/section_36184e52ee88ad558380be4e92d3de21.html)
-
- [Scilab Help](https://help.scilab.org/docs/6.0.0/en_US/index.html)
-
 ## SQL
 
  [A Visual Explanation of SQL Joins](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)

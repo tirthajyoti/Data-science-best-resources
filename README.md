@@ -90,6 +90,9 @@ A treasure trove of carefully curated resource links for data science in one pla
  [60+ Free Books on Big Data, Data Science, Data Mining, Machine Learning, Python, R, and more](http://www.kdnuggets.com/2015/09/free-data-science-books.html)
  
  [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/)
+ 
+ [Nerual Networks and Deep Learning - an online book](neuralnetworksanddeeplearning.com)
+ 
 
 ## Git and Github
 
@@ -192,6 +195,8 @@ A treasure trove of carefully curated resource links for data science in one pla
  [The 10 Statistical Techniques Data Scientists Need to Master](https://towardsdatascience.com/the-10-statistical-techniques-data-scientists-need-to-master-1ef6dbd531f7)</dt>
 
  [Welcome to STAT 505! | STAT 505](https://onlinecourses.science.psu.edu/stat505/node/1)
+ 
+ [Probability and Statistics Visually](https://seeing-theory.brown.edu)
 
 ## Visualizations
 [designing-great-visualizations.pdf](https://www.tableau.com/sites/default/files/media/designing-great-visualizations.pdf)

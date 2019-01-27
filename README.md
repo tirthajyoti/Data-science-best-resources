@@ -1,5 +1,5 @@
 # Data-science-best-resources
-A treasure trove of carefully curated resource links for data science in one place.
+A trove of carefully curated resource links for data science in one place.
 
 # Data Science
 

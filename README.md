@@ -5,15 +5,15 @@ A trove of carefully curated resource links for data science in one place.
 
 ## AWS related
 
- [Amazon CloudWatch - Application and Infrastructure Monitoring](https://aws.amazon.com/cloudwatch/)</dt>
+ [Amazon CloudWatch - Application and Infrastructure Monitoring](https://aws.amazon.com/cloudwatch/)
 
- [Amazon DynamoDB - Overview](https://aws.amazon.com/dynamodb/)</dt>
+ [Amazon DynamoDB - Overview](https://aws.amazon.com/dynamodb/)
 
- [Amazon Elastic Block Store (EBS) - Amazon Web Services](https://aws.amazon.com/ebs/)</dt>
+ [Amazon Elastic Block Store (EBS) - Amazon Web Services](https://aws.amazon.com/ebs/)
 
- [Amazon Elastic File System (EFS) | Cloud File Storage](https://aws.amazon.com/efs/)</dt>
+ [Amazon Elastic File System (EFS) | Cloud File Storage](https://aws.amazon.com/efs/)
 
- [AWS Concepts: Understanding AWS - YouTube](https://www.youtube.com/watch?v=qcY-uiEHhn0)</dt>
+ [AWS Concepts: Understanding AWS - YouTube](https://www.youtube.com/watch?v=qcY-uiEHhn0)
 
  [AWS Concepts: Understanding the Course Material & Features - YouTube](https://www.youtube.com/watch?v=LKStwibxbR0&list=PLv2a_5pNAko2Jl4Ks7V428ttvy-Fj4NKU)
 
@@ -225,7 +225,7 @@ A trove of carefully curated resource links for data science in one place.
 
  [Learn to code | Codecademy](https://www.codecademy.com/)
 
- [Lecture Notes | Introduction to MATLAB | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-094-introduction-to-matlab-january-iap-2010/lecture-notes/)</dt>
+ [Lecture Notes | Introduction to MATLAB | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-094-introduction-to-matlab-january-iap-2010/lecture-notes/)
 
  [Medium – Read, write and share stories that matter](https://medium.com/)
 
@@ -241,41 +241,41 @@ A trove of carefully curated resource links for data science in one place.
 
  ## Interesting Articles
 
- [46 Most Intellectually Stimulating Sites That Will Spark Your Inner Genius in 10 Minutes a Day](https://medium.com/swlh/in-less-than-10-minutes-a-day-these-46-intellectually-stimulating-sites-will-spark-your-inner-d96ee6fc8387)</dt>
+ [46 Most Intellectually Stimulating Sites That Will Spark Your Inner Genius in 10 Minutes a Day](https://medium.com/swlh/in-less-than-10-minutes-a-day-these-46-intellectually-stimulating-sites-will-spark-your-inner-d96ee6fc8387)
 
- [Artificial Intelligence Learns to Learn Entirely on Its Own | Quanta Magazine](https://www.quantamagazine.org/artificial-intelligence-learns-to-learn-entirely-on-its-own-20171018/?utm_content=buffer578b7&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)</dt>
+ [Artificial Intelligence Learns to Learn Entirely on Its Own | Quanta Magazine](https://www.quantamagazine.org/artificial-intelligence-learns-to-learn-entirely-on-its-own-20171018/?utm_content=buffer578b7&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
 
  [Edward Witten Ponders the Nature of Reality | Quanta Magazine](https://www.quantamagazine.org/edward-witten-ponders-the-nature-of-reality-20171128/)</dt>
 
    [Engineers Shouldn’t Write ETL: A Guide to Building a High Functioning Data Science Department | Stitch Fix Technology – Multithreaded](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/)
    
- [General Thinking Tools: 9 Mental Models to Solve Difficult Problems](https://www.fs.blog/general-thinking-tools/?utm_source=pocket&utm_medium=email&utm_campaign=pockethits)</dt>
+ [General Thinking Tools: 9 Mental Models to Solve Difficult Problems](https://www.fs.blog/general-thinking-tools/?utm_source=pocket&utm_medium=email&utm_campaign=pockethits)
 
- [How Social Media Endangers Knowledge | WIRED](https://www.wired.com/story/wikipedias-fate-shows-how-the-web-endangers-knowledge/)</dt>
+ [How Social Media Endangers Knowledge | WIRED](https://www.wired.com/story/wikipedias-fate-shows-how-the-web-endangers-knowledge/)
 
- [In These Small Cities, AI Advances Could Be Costly - MIT Technology Review](https://www.technologyreview.com/s/609076/in-these-small-cities-ai-advances-could-be-costly/?utm_campaign=Owned+Social&utm_source=Facebook&utm_medium=Owned+Social)</dt>
+ [In These Small Cities, AI Advances Could Be Costly - MIT Technology Review](https://www.technologyreview.com/s/609076/in-these-small-cities-ai-advances-could-be-costly/?utm_campaign=Owned+Social&utm_source=Facebook&utm_medium=Owned+Social)
 
- [Machine Learning’s ‘Amazing’ Ability to Predict Chaos | Quanta Magazine](https://www.quantamagazine.org/machine-learnings-amazing-ability-to-predict-chaos-20180418/)</dt>
+ [Machine Learning’s ‘Amazing’ Ability to Predict Chaos | Quanta Magazine](https://www.quantamagazine.org/machine-learnings-amazing-ability-to-predict-chaos-20180418/)
 
- [New Brain Maps With Unmatched Detail May Change Neuroscience | WIRED](https://www.wired.com/story/new-brain-maps-with-unmatched-detail-may-change-neuroscience/)</dt>
+ [New Brain Maps With Unmatched Detail May Change Neuroscience | WIRED](https://www.wired.com/story/new-brain-maps-with-unmatched-detail-may-change-neuroscience/)
 
- [Pedro Domingos on the Arms Race in Artificial Intelligence - SPIEGEL ONLINE](http://www.spiegel.de/international/world/pedro-domingos-on-the-arms-race-in-artificial-intelligence-a-1203132.html)</dt>
+ [Pedro Domingos on the Arms Race in Artificial Intelligence - SPIEGEL ONLINE](http://www.spiegel.de/international/world/pedro-domingos-on-the-arms-race-in-artificial-intelligence-a-1203132.html)
 
- [Quantum Leaps in Quantum Computing? - Scientific American](https://www.scientificamerican.com/article/quantum-leaps-in-quantum-computing/?utm_source=facebook&utm_medium=social&utm_campaign=sa-editorial-social&utm_content&utm_term=physics_sa-magazine_text_free)</dt>
+ [Quantum Leaps in Quantum Computing? - Scientific American](https://www.scientificamerican.com/article/quantum-leaps-in-quantum-computing/?utm_source=facebook&utm_medium=social&utm_campaign=sa-editorial-social&utm_content&utm_term=physics_sa-magazine_text_free)
 
- [The Fragile State of the Midwest’s Public Universities - The Atlantic](https://www.theatlantic.com/business/archive/2017/10/midwestern-public-research-universities-funding/542889/?utm_source=vxfb)</dt>
+ [The Fragile State of the Midwest’s Public Universities - The Atlantic](https://www.theatlantic.com/business/archive/2017/10/midwestern-public-research-universities-funding/542889/?utm_source=vxfb)
 
- [The Future of Human Work Is Imagination, Creativity, and Strategy](https://hbr.org/2018/01/the-future-of-human-work-is-imagination-creativity-and-strategy?utm_campaign=hbr&utm_source=linkedin&utm_medium=social)</dt>
+ [The Future of Human Work Is Imagination, Creativity, and Strategy](https://hbr.org/2018/01/the-future-of-human-work-is-imagination-creativity-and-strategy?utm_campaign=hbr&utm_source=linkedin&utm_medium=social)
 
- [The Quantum Thermodynamics Revolution | Quanta Magazine](https://www.quantamagazine.org/the-quantum-thermodynamics-revolution-20170502?utm_content=buffere2607&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)</dt>
+ [The Quantum Thermodynamics Revolution | Quanta Magazine](https://www.quantamagazine.org/the-quantum-thermodynamics-revolution-20170502?utm_content=buffere2607&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
 
- [What Is Code? | Paul Ford| Bloomberg](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)</dt>
+ [What Is Code? | Paul Ford| Bloomberg](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 
- [The Economics Of Artificial Intelligence - How Cheaper Predictions Will Change The World](https://www.forbes.com/sites/bernardmarr/2018/07/10/the-economics-of-artificial-intelligence-how-cheaper-predictions-will-change-the-world/#5b3b146f5a0d)</dt>
+ [The Economics Of Artificial Intelligence - How Cheaper Predictions Will Change The World](https://www.forbes.com/sites/bernardmarr/2018/07/10/the-economics-of-artificial-intelligence-how-cheaper-predictions-will-change-the-world/#5b3b146f5a0d)
 
- [OpenAI’s Dota 2 defeat is still a win for artificial intelligence  - The Verge](https://www.theverge.com/2018/8/28/17787610/openai-dota-2-bots-ai-lost-international-reinforcement-learning)</dt>
+ [OpenAI’s Dota 2 defeat is still a win for artificial intelligence  - The Verge](https://www.theverge.com/2018/8/28/17787610/openai-dota-2-bots-ai-lost-international-reinforcement-learning)
 
- [Machine Learning Confronts the Elephant in the Room | Quanta Magazine](https://www.quantamagazine.org/machine-learning-confronts-the-elephant-in-the-room-20180920/)</dt>
+ [Machine Learning Confronts the Elephant in the Room | Quanta Magazine](https://www.quantamagazine.org/machine-learning-confronts-the-elephant-in-the-room-20180920/)
 
 ## Neural Network
 

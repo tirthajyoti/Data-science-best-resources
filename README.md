@@ -167,12 +167,14 @@ A trove of carefully curated resource links for data science in one place.
  [SQL Joins Explained](http://www.sql-join.com/)
 
  [The SQL Tutorial for Data Analysis | SQL Tutorial - Mode Analytics](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/)
+ 
+  [SQL vs NoSQL or MySQL vs MongoDB - YouTube](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)</dt>
 
  [Thinking in SQL vs Thinking in Python](https://blog.modeanalytics.com/learning-python-sql/)
  
  [Kaggle SQL course (including BigQuery topics)](https://www.kaggle.com/learn/sql)
-
-## Statistics
+ 
+ ## Statistics
 
  [Background: Markov chains](https://d18ky98rnyall9.cloudfront.net/_adadc80290e52a99b282ca9d7c1a41ee_background_MarkovChains.html?Expires=1530662400&Signature=dyYfpdwOHuBi5luAmaXehcD15BI-EjW0w5Cd1K3GZMm0odFsXVM7d8ghhjZNbcb91SFVGlsvoPbCxYR-Mq3eld8ayV9FcFiI2tAvjKY0VTwPLUFmMbIfPYMv~uF07q3RIaZyWuM5vqvX526eLuYbbBzG6ZAaOhI7sPF9rb2iio4_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)</dt>
 
@@ -564,26 +566,6 @@ A trove of carefully curated resource links for data science in one place.
  [The Dead-Simple Guide to Installing a Linux Virtual Machine on Windows - StorageCraft Technology Corporation](https://blog.storagecraft.com/the-dead-simple-guide-to-installing-a-linux-virtual-machine-on-windows/)</dt>
 
  [[Solved] Could not get lock /var/lib/dpkg/lock Error in Ubuntu | It's FOSS](https://itsfoss.com/could-not-get-lock-error/)</dt>
-
-## SQL
-
-[A Visual Explanation of SQL Joins](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)</dt>
-
- [Join (SQL) - Wikipedia](https://en.wikipedia.org/wiki/Join_(SQL))</dt>
-
- [PostgreSQL: Mathematical Functions and Operators](https://www.postgresql.org/docs/9.5/static/functions-math.html)</dt>
-
- [PostgreSQL: String Functions and Operators](https://www.postgresql.org/docs/9.5/static/functions-string.html)</dt>
-
- [Psycopg2 Tutorial - PostgreSQL with Python](https://wiki.postgresql.org/wiki/Psycopg2_Tutorial)</dt>
-
- [SQL Joins Explained](http://www.sql-join.com/)</dt>
-
- [The SQL Tutorial for Data Analysis | SQL Tutorial - Mode Analytics](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/)</dt>
-
- [Thinking in SQL vs Thinking in Python](https://blog.modeanalytics.com/learning-python-sql/)</dt>
-
- [SQL vs NoSQL or MySQL vs MongoDB - YouTube](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)</dt>
 
 ## Time series 
 

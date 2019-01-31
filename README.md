@@ -585,25 +585,6 @@ A trove of carefully curated resource links for data science in one place.
  
  [Time series with Siraj course by Kaggle](https://www.kaggle.com/learn/time-series-with-siraj)
 
-## Visualizations
-
- [designing-great-visualizations.pdf](https://www.tableau.com/sites/default/files/media/designing-great-visualizations.pdf)</dt>
-
- [Gallery of Data Visualization - Missed Opportunities and Graphical Failures](http://www.datavis.ca/gallery/missed.php)</dt>
-
- [Lesson 1-4, first visualization data - Govind Acharya | Tableau Public](https://public.tableau.com/profile/govind.acharya#!/vizhome/Lesson1-4firstvisualizationdata/Sheet1)</dt>
-
- [Mapping the 1854 Cholera Outbreak | Tableau Public](https://public.tableau.com/s/gallery/mapping-1854-cholera-outbreak)</dt>
-
- [Resources | Tableau Public](https://public.tableau.com/en-us/s/resources)</dt>
-
- [Simple Method of Creating Animated Graphs – Towards Data Science](https://towardsdatascience.com/simple-method-of-creating-animated-graphs-127c11f58cc5)</dt>
-
- [Introduction to Altair - A Declarative Visualization Library in Python](https://www.analyticsvidhya.com/blog/2017/12/introduction-to-altair-a-declarative-visualization-in-python/?utm_source=linkedin.com)</dt>
-
- [GGobi data visualization system.](http://www.ggobi.org/)</dt>
-
-
 ## Interesting Articles
 
  [Artificial Intelligence — The Revolution Hasn’t Happened Yet](https://medium.com/@mijordan3/artificial-intelligence-the-revolution-hasnt-happened-yet-5e1d5812e1e7)</dt>

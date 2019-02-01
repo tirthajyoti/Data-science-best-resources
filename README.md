@@ -1,8 +1,6 @@
 # Data Science Best Resources
 A trove of carefully curated resource links for data science in one place.
 
-# Data Science
-
 ## AWS related
 
  [Amazon CloudWatch - Application and Infrastructure Monitoring](https://aws.amazon.com/cloudwatch/)

@@ -786,6 +786,8 @@ A trove of carefully curated resource links for data science in one place.
  [TextBlob: Simplified Text Processing — TextBlob 0.15.1 documentation](https://textblob.readthedocs.io/en/dev/)</dt>
 
  [Python Regular Expression Tutorial (article) - DataCamp](https://www.datacamp.com/community/tutorials/python-regular-expression-tutorial)</dt>
+ 
+ [Stanford NLP](https://stanfordnlp.github.io/stanfordnlp/)
 
 ### Reinforcement Learning
 

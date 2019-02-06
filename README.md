@@ -1004,17 +1004,19 @@ A trove of carefully curated resource links for data science in one place.
 
  [Python tutorial - TutorialsPoint](https://www.tutorialspoint.com/python/index.htm)</dt>
 
- [Regular Expressions for Data Scientists](https://www.dataquest.io/blog/regular-expressions-data-scientists/)</dt>
+ [Regular Expressions for Data Scientists](https://www.dataquest.io/blog/regular-expressions-data-scientists/)
 
- [Simple Linear Regression Analysis - ReliaWiki](http://reliawiki.org/index.php/Simple_Linear_Regression_Analysis#Fitted_Regression_Line)</dt>
+ [Simple Linear Regression Analysis - ReliaWiki](http://reliawiki.org/index.php/Simple_Linear_Regression_Analysis#Fitted_Regression_Line)
 
- [Introduction — Python 101 1.0 documentation](https://python101.pythonlibrary.org/intro.html)</dt>
+ [Introduction — Python 101 1.0 documentation](https://python101.pythonlibrary.org/intro.html)
 
- [Documenting Python Code: A Complete Guide – Real Python](https://realpython.com/documenting-python-code/)</dt>
+ [Documenting Python Code: A Complete Guide – Real Python](https://realpython.com/documenting-python-code/)
 
- [MIT AI: Python (Guido van Rossum) - YouTube](https://www.youtube.com/watch?v=ghwaIiE3Nd8&feature=youtu.be&fbclid=IwAR1xgzx1qvHu9b8YweZDO9s4868iH27gPPlBWlPiNA9IjxLbNjjwEOCghxo)</dt>
+ [MIT AI: Python (Guido van Rossum) - YouTube](https://www.youtube.com/watch?v=ghwaIiE3Nd8&feature=youtu.be&fbclid=IwAR1xgzx1qvHu9b8YweZDO9s4868iH27gPPlBWlPiNA9IjxLbNjjwEOCghxo)
 
- [Python IDEs and Code Editors (Guide) – Real Python](https://realpython.com/python-ides-code-editors-guide/)</dt>
+ [Python IDEs and Code Editors (Guide) – Real Python](https://realpython.com/python-ides-code-editors-guide/)
+ 
+ [Advanced Python web scraping tricks and tips](https://www.codementor.io/blog/python-web-scraping-63l2v9sf2q)
 
 ## R related
 

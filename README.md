@@ -251,6 +251,8 @@ A trove of carefully curated resource links for data science in one place.
 
    [Engineers Shouldn’t Write ETL: A Guide to Building a High Functioning Data Science Department | Stitch Fix Technology – Multithreaded](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/)
    
+  [Foundations Built for a General Theory of Neural Networks - Quanta Magazine](https://www.quantamagazine.org/foundations-built-for-a-general-theory-of-neural-networks-20190131)
+   
  [General Thinking Tools: 9 Mental Models to Solve Difficult Problems](https://www.fs.blog/general-thinking-tools/?utm_source=pocket&utm_medium=email&utm_campaign=pockethits)
 
  [How Social Media Endangers Knowledge | WIRED](https://www.wired.com/story/wikipedias-fate-shows-how-the-web-endangers-knowledge/)

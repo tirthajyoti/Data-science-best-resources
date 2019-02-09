@@ -1023,6 +1023,8 @@ A trove of carefully curated resource links for data science in one place.
 ## R related
 
  [A Beginner’s Guide to Neural Networks with R](http://www.kdnuggets.com/2016/08/begineers-guide-neural-networks-r.html)
+ 
+ [A Comprehensive Guide to Data Visualisation in R for Beginners](https://towardsdatascience.com/a-guide-to-data-visualisation-in-r-for-beginners-ef6d41a34174)
 
  [An R Introduction to Statistics | R Tutorial](http://www.r-tutor.com/)
 

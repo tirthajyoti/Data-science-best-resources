@@ -603,6 +603,8 @@ A trove of carefully curated resource links for data science in one place.
 
  [Edward Witten Ponders the Nature of Reality | Quanta Magazine](https://www.quantamagazine.org/edward-witten-ponders-the-nature-of-reality-20171128/)</dt>
 
+[Gatekeeping and Elitism in Data Science](https://towardsdatascience.com/gatekeeping-and-elitism-in-data-science-74cf19cd5744)
+
  [How Do Aliens Solve Climate Change? - The Atlantic](https://www.theatlantic.com/science/archive/2018/05/how-do-aliens-solve-climate-change/561479/)</dt>
 
  [How I Learned to Stop Worrying About the LHC’s Missing New Physics](http://nautil.us/issue/64/the-unseen/fine-tuning-is-just-fine)</dt>

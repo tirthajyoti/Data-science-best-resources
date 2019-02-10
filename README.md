@@ -548,6 +548,8 @@ A trove of carefully curated resource links for data science in one place.
  [Detexify LaTeX handwritten symbol recognition](http://detexify.kirelabs.org/classify.html)</dt>
 
  [http://quicklatex.com/](http://quicklatex.com/)</dt>
+ 
+ [LaTeX symbol Wiki](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols#Set_and.2For_logic_notation)
 
  [The Comprehensive LaTeX Symbol ListThe Comprehensive LaTeX Symbol List - symbols-a4.pdf](http://ctan.math.illinois.edu/info/symbols/comprehensive/symbols-a4.pdf)</dt>
 

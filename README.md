@@ -96,39 +96,37 @@ A trove of carefully curated resource links for data science in one place.
 
 ## Git and Github
 
-[Adding an existing project to GitHub using the command line - User Documentation](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)</dt>
+[Adding an existing project to GitHub using the command line - User Documentation](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)
 
  [An Intro to Git and GitHub for Beginners (Tutorial)](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)</dt>
 
- [Follow these simple rules and you’ll become a Git and GitHub master](https://medium.freecodecamp.org/follow-these-simple-rules-and-youll-become-a-git-and-github-master-e1045057468f)</dt>
+ [Follow these simple rules and you’ll become a Git and GitHub master](https://medium.freecodecamp.org/follow-these-simple-rules-and-youll-become-a-git-and-github-master-e1045057468f)
 
- [Git - Book](https://git-scm.com/book/en/v2)</dt>
+ [Git - Book](https://git-scm.com/book/en/v2)
 
- [git - the simple guide - no deep shit!](http://rogerdudler.github.io/git-guide/)</dt>
+ [git - the simple guide - no deep shit!](http://rogerdudler.github.io/git-guide/)
 
- [How not to be afraid of GIT anymore – freeCodeCamp.org](https://medium.freecodecamp.org/how-not-to-be-afraid-of-git-anymore-fe1da7415286)</dt>
+ [How not to be afraid of GIT anymore – freeCodeCamp.org](https://medium.freecodecamp.org/how-not-to-be-afraid-of-git-anymore-fe1da7415286)
 
- [joshnh/Git-Commands: A list of commonly used Git commands](https://github.com/joshnh/Git-Commands)</dt>
+ [joshnh/Git-Commands: A list of commonly used Git commands](https://github.com/joshnh/Git-Commands)
 
- [The beginner’s guide to contributing to a GitHub project – Rob Allen's DevNotes](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/)</dt>
+ [The beginner’s guide to contributing to a GitHub project – Rob Allen's DevNotes](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/)
 
- [Understanding the GitHub Flow · GitHub Guides](https://guides.github.com/introduction/flow/)</dt>
-
- [GitHub (Tirthajyoti Sarkar)](https://github.com/tirthajyoti)</dt>
+ [Understanding the GitHub Flow · GitHub Guides](https://guides.github.com/introduction/flow/)
 
 ## MOOC related
 
-[200 universities just launched 560 free online courses. Here’s the full list.](https://medium.freecodecamp.org/200-universities-just-launched-560-free-online-courses-heres-the-full-list-d9dd13600b04)</dt>
+[200 universities just launched 560 free online courses. Here’s the full list.](https://medium.freecodecamp.org/200-universities-just-launched-560-free-online-courses-heres-the-full-list-d9dd13600b04)
 
- [Artificial Intelligence | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm)</dt>
+ [Artificial Intelligence | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm)
 
- [Dashboard | MIT Professional Education Digital Programs](https://mitprofessionalx.mit.edu/dashboard)</dt>
+ [Dashboard | MIT Professional Education Digital Programs](https://mitprofessionalx.mit.edu/dashboard)
 
- [Data Science A-Z™: Real-Life Data Science Exercises Included | Udemy](https://www.udemy.com/datascience/)</dt>
+ [Data Science A-Z™: Real-Life Data Science Exercises Included | Udemy](https://www.udemy.com/datascience/)
 
- [Data Science Essentials | edX](https://www.edx.org/course/data-science-essentials-microsoft-dat203-1x-2?source=aw&awc=6798_1489913955_d9818a031ea60b9e133f81baa8e0fcbb&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=315645_LearnDataSci)</dt>
+ [Data Science Essentials | edX](https://www.edx.org/course/data-science-essentials-microsoft-dat203-1x-2?source=aw&awc=6798_1489913955_d9818a031ea60b9e133f81baa8e0fcbb&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=315645_LearnDataSci)
 
- [How to choose effective MOOCs for machine learning and data science?](https://medium.com/@tirthajyoti/how-to-choose-effective-moocs-for-machine-learning-and-data-science-8681700ed83f)</dt>
+ [How to choose effective MOOCs for machine learning and data science?](https://medium.com/@tirthajyoti/how-to-choose-effective-moocs-for-machine-learning-and-data-science-8681700ed83f)
 
  [I uncovered 1,150+ Coursera courses that are still completely free](https://medium.freecodecamp.org/coursera-free-online-courses-6d84cdb30da)
 

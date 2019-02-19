@@ -182,11 +182,11 @@ A trove of carefully curated resource links for data science in one place.
 
  [The 10 Statistical Techniques Data Scientists Need to Master](https://towardsdatascience.com/the-10-statistical-techniques-data-scientists-need-to-master-1ef6dbd531f7)</dt>
 
- [The Ultimate Guide to 12 Dimensionality Reduction Techniques (with Python codes)](https://medium.com/analytics-vidhya/the-ultimate-guide-to-12-dimensionality-reduction-techniques-with-python-codes-2c2afdbc09e3)</dt>
+ [The Ultimate Guide to 12 Dimensionality Reduction Techniques (with Python codes)](https://medium.com/analytics-vidhya/the-ultimate-guide-to-12-dimensionality-reduction-techniques-with-python-codes-2c2afdbc09e3)
 
  [Thomas Bayes and the crisis in science – TheTLS](https://www.the-tls.co.uk/articles/public/thomas-bayes-science-crisis/)</dt>
 
- [Welcome to STAT 505! | STAT 505](https://onlinecourses.science.psu.edu/stat505/node/1)</dt>
+ [Welcome to STAT 505! | STAT 505](https://onlinecourses.science.psu.edu/stat505/node/1)
 
  [Introduction to Bayesian Linear Regression – Towards Data Science](https://towardsdatascience.com/introduction-to-bayesian-linear-regression-e66e60791ea7)</dt>
 
@@ -203,7 +203,7 @@ A trove of carefully curated resource links for data science in one place.
 
 [Gallery of Data Visualization - Missed Opportunities and Graphical Failures](http://www.datavis.ca/gallery/missed.php)
 
- [Lesson 1-4, first visualization data - Govind Acharya | Tableau Public](https://public.tableau.com/profile/govind.acharya#!/vizhome/Lesson1-4firstvisualizationdata/Sheet1)</dt>
+ [Lesson 1-4, first visualization data - Govind Acharya | Tableau Public](https://public.tableau.com/profile/govind.acharya#!/vizhome/Lesson1-4firstvisualizationdata/Sheet1)
 
  [Mapping the 1854 Cholera Outbreak | Tableau Public](https://public.tableau.com/s/gallery/mapping-1854-cholera-outbreak)</dt>
 

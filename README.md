@@ -199,6 +199,8 @@ A trove of carefully curated resource links for data science in one place.
  [Probability and Statistics Visually](https://seeing-theory.brown.edu)
 
 ## Visualizations
+[Full-screen interactive that lets you explore the first 300 years of Data Visualization](https://infowetrust.com/scroll/)
+
 [designing-great-visualizations.pdf](https://www.tableau.com/sites/default/files/media/designing-great-visualizations.pdf)
 
 [Gallery of Data Visualization - Missed Opportunities and Graphical Failures](http://www.datavis.ca/gallery/missed.php)

@@ -889,7 +889,9 @@ A trove of carefully curated resource links for data science in one place.
 
  [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)</dt>
 
- [Using Interact — Jupyter Widgets 7.0.3 documentation](http://ipywidgets.readthedocs.io/en/stable/examples/Using%20Interact.html)</dt>
+ [Using Interact — Jupyter Widgets 7.0.3 documentation](http://ipywidgets.readthedocs.io/en/stable/examples/Using%20Interact.html)
+ 
+ [Pixie - visual Python debugger for Jupyter notebook](https://medium.com/ibm-watson-data-lab/the-visual-python-debugger-for-jupyter-notebooks-youve-always-wanted-761713babc62)
 
 ### Matplotlib, Seaborn, Visualization
 

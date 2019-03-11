@@ -180,7 +180,7 @@ A trove of carefully curated resource links for data science in one place.
 
  [Regression Analysis Tutorial and Examples | Minitab](http://blog.minitab.com/blog/adventures-in-statistics-2/regression-analysis-tutorial-and-examples)</dt>
 
- [The 10 Statistical Techniques Data Scientists Need to Master](https://towardsdatascience.com/the-10-statistical-techniques-data-scientists-need-to-master-1ef6dbd531f7)</dt>
+ [The 10 Statistical Techniques Data Scientists Need to Master](https://towardsdatascience.com/the-10-statistical-techniques-data-scientists-need-to-master-1ef6dbd531f7)
 
  [The Ultimate Guide to 12 Dimensionality Reduction Techniques (with Python codes)](https://medium.com/analytics-vidhya/the-ultimate-guide-to-12-dimensionality-reduction-techniques-with-python-codes-2c2afdbc09e3)
 
@@ -188,9 +188,9 @@ A trove of carefully curated resource links for data science in one place.
 
  [Welcome to STAT 505! | STAT 505](https://onlinecourses.science.psu.edu/stat505/node/1)
 
- [Introduction to Bayesian Linear Regression – Towards Data Science](https://towardsdatascience.com/introduction-to-bayesian-linear-regression-e66e60791ea7)</dt>
+ [Introduction to Bayesian Linear Regression – Towards Data Science](https://towardsdatascience.com/introduction-to-bayesian-linear-regression-e66e60791ea7)
 
- [Regression Analysis Tutorial and Examples | Minitab](http://blog.minitab.com/blog/adventures-in-statistics-2/regression-analysis-tutorial-and-examples)</dt>
+ [Regression Analysis Tutorial and Examples | Minitab](http://blog.minitab.com/blog/adventures-in-statistics-2/regression-analysis-tutorial-and-examples)
 
  [The 10 Statistical Techniques Data Scientists Need to Master](https://towardsdatascience.com/the-10-statistical-techniques-data-scientists-need-to-master-1ef6dbd531f7)</dt>
 

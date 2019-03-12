@@ -116,6 +116,8 @@ A trove of carefully curated resource links for data science in one place.
 
 ## MOOC related
 
+[Complete lecture notes of the Stanford/Coursera Machine Learning class by Andrew Ng](http://www.holehouse.org/mlclass/)
+
 [200 universities just launched 560 free online courses. Here’s the full list.](https://medium.freecodecamp.org/200-universities-just-launched-560-free-online-courses-heres-the-full-list-d9dd13600b04)
 
  [Artificial Intelligence | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm)

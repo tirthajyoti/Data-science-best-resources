@@ -1,4 +1,4 @@
-## Please feel free to [add me here on LinkedIn](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/) if you are interested in data science and like to connect.
+## Please feel free to [add me here on LinkedIn](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/) if you are interested in data science and would like to connect.
 
 # Data Science Curated Resources
 A trove of carefully curated resource links for data science in one place.

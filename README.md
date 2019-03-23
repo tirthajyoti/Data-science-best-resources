@@ -249,7 +249,7 @@ A trove of carefully curated resource links for data science, all in one place.
 
  [Artificial Intelligence Learns to Learn Entirely on Its Own | Quanta Magazine](https://www.quantamagazine.org/artificial-intelligence-learns-to-learn-entirely-on-its-own-20171018/?utm_content=buffer578b7&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
 
- [Edward Witten Ponders the Nature of Reality | Quanta Magazine](https://www.quantamagazine.org/edward-witten-ponders-the-nature-of-reality-20171128/)</dt>
+ [Edward Witten Ponders the Nature of Reality | Quanta Magazine](https://www.quantamagazine.org/edward-witten-ponders-the-nature-of-reality-20171128/)
 
    [Engineers Shouldn’t Write ETL: A Guide to Building a High Functioning Data Science Department | Stitch Fix Technology – Multithreaded](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/)
    
@@ -295,37 +295,37 @@ A trove of carefully curated resource links for data science, all in one place.
 
  [Siraj Raval - LSTM Networks - The Math of Intelligence (Week 8) - YouTube](https://www.youtube.com/watch?v=9zhrxE5PQgY)</dt>
 
- [Siraj Raval - Recurrent Neural Networks - The Math of Intelligence (Week 5) - YouTube](https://www.youtube.com/watch?v=BwmddtPFWtA)</dt>
+ [Siraj Raval - Recurrent Neural Networks - The Math of Intelligence (Week 5) - YouTube](https://www.youtube.com/watch?v=BwmddtPFWtA)
 
  [Andrew Ng: Artificial Intelligence is the New Electricity - YouTube](https://www.youtube.com/watch?v=21EiKfQYZXc)</dt>
 
  [A Neural Network Playground](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.53044&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)</dt>
 
- [But what *is* a Neural Network? | Deep learning, chapter 1](https://www.youtube.com/watch?time_continue=80&v=aircAruvnKk)</dt>
+ [But what *is* a Neural Network? | Deep learning, chapter 1](https://www.youtube.com/watch?time_continue=80&v=aircAruvnKk)
 
  [Convolutional Networks in Java - Deeplearning4j: Open-source, Distributed Deep Learning for the JVM](https://deeplearning4j.org/convolutionalnets.html)</dt>
 
- [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/convolutional-networks/)</dt>
+ [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/convolutional-networks/)
 
- [Deep Learning Fundamentals - Cognitive Class](https://cognitiveclass.ai/courses/introduction-deep-learning/?utm_content=buffer3ab0d&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)</dt>
+ [Deep Learning Fundamentals - Cognitive Class](https://cognitiveclass.ai/courses/introduction-deep-learning/?utm_content=buffer3ab0d&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
 
- [Exploring LSTMs](http://blog.echen.me/2017/05/30/exploring-lstms/)</dt>
+ [Exploring LSTMs](http://blog.echen.me/2017/05/30/exploring-lstms/)
 
- [Feature Visualization](https://distill.pub/2017/feature-visualization/)</dt>
+ [Feature Visualization](https://distill.pub/2017/feature-visualization/)
 
- [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/)</dt>
+ [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/)
 
- [Understanding Hinton’s Capsule Networks. Part I: Intuition.](https://medium.com/@pechyonkin/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)</dt>
+ [Understanding Hinton’s Capsule Networks. Part I: Intuition.](https://medium.com/@pechyonkin/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
 
- [Understanding LSTM Networks -- colah's blog](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)</dt>
+ [Understanding LSTM Networks -- colah's blog](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
- [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)</dt>
+ [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
- [Andrej Carpathy blog - Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)</dt>
+ [Andrej Carpathy blog - Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
 
  [A Beginner's Guide to Recurrent Networks and LSTMs - Deeplearning4j: Open-source, Distributed Deep Learning for the JVM](https://deeplearning4j.org/lstm.html#a-beginners-guide-to-recurrent-networks-and-lstms)</dt>
 
- [J Alammar – Explorations in touchable pixels and intelligent androids](http://jalammar.github.io/)</dt>
+ [J Alammar – Explorations in touchable pixels and intelligent androids](http://jalammar.github.io/)
 
 ### Keras
 

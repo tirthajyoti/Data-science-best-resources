@@ -679,6 +679,9 @@ A trove of carefully curated resource links for data science, all in one place.
 
 ## Machine Learning
 
+### Fairness and bias
+[Evaluating machine learning models for fairness and bias](https://towardsdatascience.com/evaluating-machine-learning-models-fairness-and-bias-4ec82512f7c3)
+
 ### Deployment of ML
 
  [[Guide] Building Data Science Web Application with React, NodeJS, and MySQL](https://towardsdatascience.com/guide-building-data-science-web-application-with-react-nodejs-and-mysql-1c55416ff0fb)</dt>

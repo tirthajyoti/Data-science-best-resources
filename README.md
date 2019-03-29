@@ -970,6 +970,8 @@ A trove of carefully curated resource links for data science, all in one place.
 
  [Install Spark on Windows (PySpark) – Michael Galarnyk – Medium](https://medium.com/@GalarnykMichael/install-spark-on-windows-pyspark-4498a5d8d66c)</dt>
 
+### Projects
+[10 Steps to Set Up Your Python Project for Success](https://towardsdatascience.com/10-steps-to-set-up-your-python-project-for-success-14ff88b5d13)
 
 ### Tools and Utilities
 

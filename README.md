@@ -947,10 +947,12 @@ A trove of carefully curated resource links (software, methods, language, techni
  [Pandas: Python Data Analysis Library](http://pandas.pydata.org/)</dt>
 
 
-### Setup and PyPi
+### Setup, PyPi, Creating your own packages
  [Home | Read the Docs](https://readthedocs.org/)</dt>
 
  [How to publish your own Python Package on PyPi – freeCodeCamp](https://medium.freecodecamp.org/how-to-publish-a-pyton-package-on-pypi-a89e9522ce24)</dt>
+ 
+ [Step-by-Step Guide to Creating R and Python Libraries (in JupyterLab)](https://towardsdatascience.com/step-by-step-guide-to-creating-r-and-python-libraries-e81bbea87911)
 
  [How to submit a package to PyPI — Peter Downs](http://peterdowns.com/posts/first-time-with-pypi.html)</dt>
 

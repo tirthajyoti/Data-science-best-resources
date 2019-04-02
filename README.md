@@ -176,6 +176,8 @@ A trove of carefully curated resource links (software, methods, language, techni
  
  ## Statistics
 
+ [Common statistical tests are linear models (or: how to teach stats)](https://lindeloev.github.io/tests-as-linear/)
+ 
  [Background: Markov chains](https://d18ky98rnyall9.cloudfront.net/_adadc80290e52a99b282ca9d7c1a41ee_background_MarkovChains.html?Expires=1530662400&Signature=dyYfpdwOHuBi5luAmaXehcD15BI-EjW0w5Cd1K3GZMm0odFsXVM7d8ghhjZNbcb91SFVGlsvoPbCxYR-Mq3eld8ayV9FcFiI2tAvjKY0VTwPLUFmMbIfPYMv~uF07q3RIaZyWuM5vqvX526eLuYbbBzG6ZAaOhI7sPF9rb2iio4_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)</dt>
 
  [OpenIntro Stats](https://www.openintro.org/index.php)

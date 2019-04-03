@@ -175,6 +175,8 @@ A trove of carefully curated resource links (software, methods, language, techni
  [Kaggle SQL course (including BigQuery topics)](https://www.kaggle.com/learn/sql)
  
  ## Statistics
+ 
+ [Introductory statistics - OpenText Library](https://saylordotorg.github.io/text_introductory-statistics/index.html)
 
  [Common statistical tests are linear models (or: how to teach stats)](https://lindeloev.github.io/tests-as-linear/)
  

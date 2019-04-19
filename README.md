@@ -443,6 +443,8 @@ A trove of carefully curated resource links (software, platforms, language, tech
 
 ## Cloud computing
 
+ [Why You Should Consider Google AI Platform For Your Machine Learning Projects](https://www.forbes.com/sites/janakirammsv/2019/04/16/why-you-should-consider-google-ai-platform-for-your-machine-learning-projects/amp/)
+ 
  [Cloud Computing Tutorial for Beginners | Cloud Computing Explained | Cloud Computing | Simplilearn - YouTube](https://www.youtube.com/watch?v=RWgW-CgdIk0)</dt>
 
 ### Computation, Computing

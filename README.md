@@ -3,6 +3,28 @@
 # Data Science Curated Resources
 A trove of carefully curated resource links (software, platforms, language, techniques, etc.) for data science, all in one place.
 
+## Artificial Intelligence
+
+[MONTRÉAL.AI ACADEMY: ARTIFICIAL INTELLIGENCE 101 FIRST WORLD-CLASS OVERVIEW OF AI FOR ALL](http://www.montreal.ai/ai4all.pdf)
+
+ [AI thinks like a corporation—and that’s worrying - Open Voices](https://www.economist.com/open-future/2018/11/26/ai-thinks-like-a-corporation-and-thats-worrying)</dt>
+
+ [AITopics](https://aitopics.org/search)</dt>
+
+ [Does the Brain Store Information in Discrete or Analog Form?](https://medium.com/mit-technology-review/does-the-brain-store-information-in-discrete-or-analog-form-f0e169361c99)</dt>
+
+ [Explainable Artificial Intelligence (Part 1) — The Importance of Human Interpretable Machine…](https://towardsdatascience.com/human-interpretable-machine-learning-part-1-the-need-and-importance-of-model-interpretation-2ed758f5f476)</dt>
+
+ [Is The Singularity Coming? – Arc Digital](https://arcdigital.media/is-the-singularity-coming-ef8580d4ce97)</dt>
+
+ [Michael I. Jordan NYSE Machine Learning Presentation](https://www.youtube.com/watch?time_continue=2&v=17cp8PLKvOc)</dt>
+
+ [Some scientists fear superintelligent machines could pose a threat to humanity | The Washington Post](https://www.washingtonpost.com/sf/national/2015/12/27/aianxiety/?noredirect=on&utm_term=.c3ac6321c831)</dt>
+
+ [The Four Waves of A.I. | LinkedIn](https://www.linkedin.com/pulse/four-waves-ai-kai-fu-lee/)</dt>
+
+ [When algorithms go wrong we need power to fight back, say researchers - The Verge](https://www.theverge.com/2018/12/8/18131745/ai-now-algorithmic-accountability-2018-report-facebook-microsoft-google)</dt>
+
 ## AWS related
 
  [Amazon CloudWatch - Application and Infrastructure Monitoring](https://aws.amazon.com/cloudwatch/)
@@ -396,26 +418,6 @@ A trove of carefully curated resource links (software, platforms, language, tech
  [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)</dt>
 
  [AI Knowledge Map: How To Classify AI Technologies](https://www.forbes.com/sites/cognitiveworld/2018/08/22/ai-knowledge-map-how-to-classify-ai-technologies/#5878d667773f)</dt>
-
-## Artificial Intelligence
-
- [AI thinks like a corporation—and that’s worrying - Open Voices](https://www.economist.com/open-future/2018/11/26/ai-thinks-like-a-corporation-and-thats-worrying)</dt>
-
- [AITopics](https://aitopics.org/search)</dt>
-
- [Does the Brain Store Information in Discrete or Analog Form?](https://medium.com/mit-technology-review/does-the-brain-store-information-in-discrete-or-analog-form-f0e169361c99)</dt>
-
- [Explainable Artificial Intelligence (Part 1) — The Importance of Human Interpretable Machine…](https://towardsdatascience.com/human-interpretable-machine-learning-part-1-the-need-and-importance-of-model-interpretation-2ed758f5f476)</dt>
-
- [Is The Singularity Coming? – Arc Digital](https://arcdigital.media/is-the-singularity-coming-ef8580d4ce97)</dt>
-
- [Michael I. Jordan NYSE Machine Learning Presentation](https://www.youtube.com/watch?time_continue=2&v=17cp8PLKvOc)</dt>
-
- [Some scientists fear superintelligent machines could pose a threat to humanity | The Washington Post](https://www.washingtonpost.com/sf/national/2015/12/27/aianxiety/?noredirect=on&utm_term=.c3ac6321c831)</dt>
-
- [The Four Waves of A.I. | LinkedIn](https://www.linkedin.com/pulse/four-waves-ai-kai-fu-lee/)</dt>
-
- [When algorithms go wrong we need power to fight back, say researchers - The Verge](https://www.theverge.com/2018/12/8/18131745/ai-now-algorithmic-accountability-2018-report-facebook-microsoft-google)</dt>
 
 ## Apache Spark
 

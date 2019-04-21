@@ -273,6 +273,8 @@ A trove of carefully curated resource links (software, platforms, language, tech
 
  ## Interesting Articles
 
+ [The Third-wave of Data Scientist](https://towardsdatascience.com/the-third-wave-data-scientist-1421df7433c9)
+ 
  [46 Most Intellectually Stimulating Sites That Will Spark Your Inner Genius in 10 Minutes a Day](https://medium.com/swlh/in-less-than-10-minutes-a-day-these-46-intellectually-stimulating-sites-will-spark-your-inner-d96ee6fc8387)
 
  [Artificial Intelligence Learns to Learn Entirely on Its Own | Quanta Magazine](https://www.quantamagazine.org/artificial-intelligence-learns-to-learn-entirely-on-its-own-20171018/?utm_content=buffer578b7&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)

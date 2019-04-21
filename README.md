@@ -198,6 +198,8 @@ A trove of carefully curated resource links (software, platforms, language, tech
  
  ## Statistics
  
+ [Common statistical tests are linear models (or: how to teach stats)](https://lindeloev.github.io/tests-as-linear/)
+ 
  [Introductory statistics - OpenText Library](https://saylordotorg.github.io/text_introductory-statistics/index.html)
 
  [Common statistical tests are linear models (or: how to teach stats)](https://lindeloev.github.io/tests-as-linear/)

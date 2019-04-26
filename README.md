@@ -517,7 +517,9 @@ A trove of carefully curated resource links (software, platforms, language, tech
  
 ### CSS
 
-  [Creating a Simple Website with HTML and CSS - Part 1 - YouTube](https://www.youtube.com/watch?v=A3Xgz9PHGuA)</dt>
+ [The CSS Handbook: a handy guide to CSS for developers](https://medium.freecodecamp.org/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11)
+ 
+ [Creating a Simple Website with HTML and CSS - Part 1 - YouTube](https://www.youtube.com/watch?v=A3Xgz9PHGuA)</dt>
 
  [CSS Introduction - W3Schools](https://www.w3schools.com/css/css_intro.asp)</dt>
 

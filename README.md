@@ -7,7 +7,9 @@ A trove of carefully curated resource links (software, platforms, language, tech
 
 [MONTRÉAL.AI ACADEMY: ARTIFICIAL INTELLIGENCE 101 FIRST WORLD-CLASS OVERVIEW OF AI FOR ALL](http://www.montreal.ai/ai4all.pdf)
 
- [AI thinks like a corporation—and that’s worrying - Open Voices](https://www.economist.com/open-future/2018/11/26/ai-thinks-like-a-corporation-and-thats-worrying)</dt>
+ [OpenAI Blog](https://blog.openai.com/)
+
+[AI thinks like a corporation—and that’s worrying - Open Voices](https://www.economist.com/open-future/2018/11/26/ai-thinks-like-a-corporation-and-thats-worrying)</dt>
 
  [AITopics](https://aitopics.org/search)</dt>
 
@@ -260,8 +262,6 @@ A trove of carefully curated resource links (software, platforms, language, tech
  [Lecture Notes | Introduction to MATLAB | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-094-introduction-to-matlab-january-iap-2010/lecture-notes/)
 
  [Medium – Read, write and share stories that matter](https://medium.com/)
-
- [OpenAI Blog](https://blog.openai.com/)
 
  [Scientifically Sound](https://scientificallysound.org/)
 

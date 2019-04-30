@@ -698,6 +698,8 @@ A trove of carefully curated resource links (software, platforms, language, tech
 
 ### Deployment of ML
 
+[Overview of the different approaches to putting Machine Learning (ML) models in production](https://medium.com/analytics-and-data/overview-of-the-different-approaches-to-putting-machinelearning-ml-models-in-production-c699b34abf86)
+
  [[Guide] Building Data Science Web Application with React, NodeJS, and MySQL](https://towardsdatascience.com/guide-building-data-science-web-application-with-react-nodejs-and-mysql-1c55416ff0fb)</dt>
 
  [A beginner’s guide to training and deploying machine learning models using Python](https://medium.freecodecamp.org/a-beginners-guide-to-training-and-deploying-machine-learning-models-using-python-48a313502e5a)</dt>

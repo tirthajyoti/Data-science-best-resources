@@ -104,6 +104,7 @@ A trove of carefully curated resource links (software, platforms, language, tech
  [GitHub Python Data Science Spotlight: AutoML, NLP, Visualization, ML Workflows](https://www.kdnuggets.com/2018/08/github-python-data-science-spotlight.html)
 
 ## Books, Courses, Repos
+ [Dive into Deep Learning (An interactive deep learning book with code, math, and discussions)](https://d2l.ai/index.html)
 
  [Machine Learning Math book](https://mml-book.github.io/)
 

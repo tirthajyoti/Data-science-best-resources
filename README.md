@@ -607,6 +607,8 @@ A trove of carefully curated resource links (software, platforms, language, tech
 
 ## Interesting Articles
 
+ [Debunking The Myths And Reality Of Artificial Intelligence - Forbes](https://www.forbes.com/sites/cognitiveworld/2019/04/22/debunking-the-myths-and-reality-of-artificial-intelligence/#614c70e743b5)
+ 
  [Artificial Intelligence — The Revolution Hasn’t Happened Yet](https://medium.com/@mijordan3/artificial-intelligence-the-revolution-hasnt-happened-yet-5e1d5812e1e7)</dt>
 
  [Artificial Intelligence Learns to Learn Entirely on Its Own | Quanta Magazine](https://www.quantamagazine.org/artificial-intelligence-learns-to-learn-entirely-on-its-own-20171018/?utm_content=buffer578b7&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)</dt>

@@ -286,7 +286,7 @@ A trove of carefully curated resource links (software, platforms, language, tech
    
   [Foundations Built for a General Theory of Neural Networks - Quanta Magazine](https://www.quantamagazine.org/foundations-built-for-a-general-theory-of-neural-networks-20190131)
    
- [General Thinking Tools: 9 Mental Models to Solve Difficult Problems](https://www.fs.blog/general-thinking-tools/?utm_source=pocket&utm_medium=email&utm_campaign=pockethits)
+ [General Thinking Tools: 9 Mental Models to Solve Difficult Problems](https://www.fs.blog/general-thinking-tools/)
 
  [How Social Media Endangers Knowledge | WIRED](https://www.wired.com/story/wikipedias-fate-shows-how-the-web-endangers-knowledge/)
 

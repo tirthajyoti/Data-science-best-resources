@@ -825,6 +825,8 @@ A trove of carefully curated resource links (software, platforms, language, tech
 
 ### Reinforcement Learning
 
+[Reinforcement Learning Course - Full Machine Learning Tutorial](https://www.youtube.com/watch?v=ELE2_Mftqoc)
+
  [A brief introduction to reinforcement learning – freeCodeCamp.org](https://medium.freecodecamp.org/a-brief-introduction-to-reinforcement-learning-7799af5840db)</dt>
 
  [An introduction to Reinforcement Learning – freeCodeCamp.org](https://medium.freecodecamp.org/an-introduction-to-reinforcement-learning-4339519de419)</dt>

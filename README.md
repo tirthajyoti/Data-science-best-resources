@@ -907,7 +907,9 @@ A trove of carefully curated resource links (software, platforms, language, tech
 
 ## Python
 
-### Jupyter related
+### Jupyter and IDE related
+
+ [PyCharm for data scientists](https://www.kdnuggets.com/2019/05/pycharm-data-scientists.html)
 
  [Built-in magic commands — IPython 6.2.1 documentation](http://ipython.readthedocs.io/en/stable/interactive/magics.html)</dt>
 

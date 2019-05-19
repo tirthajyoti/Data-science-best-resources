@@ -396,21 +396,21 @@ A trove of carefully curated resource links (software, platforms, language, tech
 
  [Lecture Collection | Machine Learning - Stanford course](https://www.youtube.com/view_play_list?p=A89DCFA6ADACE599)</dt>
 
- [Microsoft Azure ML Cheat sheet](https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-algorithm-choice)</dt>
+ [Microsoft Azure ML Cheat sheet](https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-algorithm-choice)
 
- [Pedro Domigos Machine Learning lectures](https://www.youtube.com/user/UWCSE/playlists?shelf_id=16&sort=dd&view=50)</dt>
+ [Pedro Domigos Machine Learning lectures](https://www.youtube.com/user/UWCSE/playlists?shelf_id=16&sort=dd&view=50)
 
  [The Hitchhiker’s Guide to Machine Learning in Python](https://medium.com/@conordewey3/the-hitchhikers-guide-to-machine-learning-algorithms-in-python-bfad66adb378)</dt>
 
- [Top 10 Machine Learning Projects on Github](http://www.kdnuggets.com/2015/12/top-10-machine-learning-github.html)</dt>
+ [Top 10 Machine Learning Projects on Github](http://www.kdnuggets.com/2015/12/top-10-machine-learning-github.html)
 
  [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/)</dt>
 
- [ISLR class videos](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/)</dt>
+ [ISLR class videos](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
 
  [Machine Learning Zero-to-Hero: Everything you need in order to compete on Kaggle for the first…](https://towardsdatascience.com/machine-learning-zero-to-hero-everything-you-need-in-order-to-compete-on-kaggle-for-the-first-time-18644e701cf1)</dt>
 
- [GOOGLE - Rules of Machine Learning:  |  Machine Learning Rules  |  Google Developers](https://developers.google.com/machine-learning/rules-of-ml/)</dt>
+ [GOOGLE - Rules of Machine Learning:  |  Machine Learning Rules  |  Google Developers](https://developers.google.com/machine-learning/rules-of-ml/)
 
  [PySpark ML tutorial example](https://nbviewer.jupyter.org/github/anindya-saha/Data-Science-with-Spark/blob/master/predict-us-census-income-classification/predict-us-census-income.ipynb)</dt>
 

@@ -61,6 +61,8 @@ A trove of carefully curated resource links (software, platforms, language, tech
  
 ## Blogs, StacksExchanges
 
+[Reducing the Need for Labeled Data in Generative Adversarial Networks](https://ai.googleblog.com/2019/03/reducing-need-for-labeled-data-in.html)
+
 [Jason's Google ML 101 deck](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/edit)
 
  [10 Free Must-Read Books for Machine Learning and Data Science](https://www.kdnuggets.com/2017/04/10-free-must-read-books-machine-learning-data-science.html?utm_content=buffer5a67a&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)

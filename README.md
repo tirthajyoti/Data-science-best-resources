@@ -372,17 +372,17 @@ A trove of carefully curated resource links (software, platforms, language, tech
  
 ### TensorFlow
 
- [Building Input Functions with tf.estimator  |  TensorFlow](https://www.tensorflow.org/get_started/input_fn)</dt>
+ [Building Input Functions with tf.estimator  |  TensorFlow](https://www.tensorflow.org/get_started/input_fn)
 
- [Getting Started With TensorFlow  |  TensorFlow](https://www.tensorflow.org/get_started/get_started)</dt>
+ [Getting Started With TensorFlow  |  TensorFlow](https://www.tensorflow.org/get_started/get_started)
 
- [Installing TensorFlow on Windows  |  TensorFlow](https://www.tensorflow.org/install/install_windows)</dt>
+ [Installing TensorFlow on Windows  |  TensorFlow](https://www.tensorflow.org/install/install_windows)
 
- [TensorFlow](https://www.tensorflow.org/)</dt>
+ [TensorFlow](https://www.tensorflow.org/)
 
- [TensorFlow Linear Model Tutorial  |  TensorFlow](https://www.tensorflow.org/tutorials/wide)</dt>
+ [TensorFlow Linear Model Tutorial  |  TensorFlow](https://www.tensorflow.org/tutorials/wide)
 
- [TensorFlow Wide & Deep Learning Tutorial  |  TensorFlow](https://www.tensorflow.org/tutorials/wide_and_deep)</dt>
+ [TensorFlow Wide & Deep Learning Tutorial  |  TensorFlow](https://www.tensorflow.org/tutorials/wide_and_deep)
 
  [Using TensorFlow in Windows with a GPU | Heaton Research](http://www.heatonresearch.com/2017/01/01/tensorflow-windows-gpu.html)</dt>
 

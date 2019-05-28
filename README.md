@@ -721,21 +721,21 @@ A trove of carefully curated resource links (software, platforms, language, tech
 
  [Quora - How do you take a machine learning model to production?](https://www.quora.com/How-do-you-take-a-machine-learning-model-to-production)</dt>
 
- [Tutorial to deploy Machine Learning model in Production as API with Flask](https://www.analyticsvidhya.com/blog/2017/09/machine-learning-models-as-apis-using-flask/)</dt>
+ [Tutorial to deploy Machine Learning model in Production as API with Flask](https://www.analyticsvidhya.com/blog/2017/09/machine-learning-models-as-apis-using-flask/)
 
- [From Big Data to micro-services: how to serve Spark-trained models through AWS lambdas](https://towardsdatascience.com/from-big-data-to-micro-services-how-to-serve-spark-trained-models-through-aws-lambdas-ebe129f4849c)</dt>
+ [From Big Data to micro-services: how to serve Spark-trained models through AWS lambdas](https://towardsdatascience.com/from-big-data-to-micro-services-how-to-serve-spark-trained-models-through-aws-lambdas-ebe129f4849c)
 
- [How to deliver on Machine Learning projects – Insight Data](https://blog.insightdatascience.com/how-to-deliver-on-machine-learning-projects-c8d82ce642b0)</dt>
+ [How to deliver on Machine Learning projects – Insight Data](https://blog.insightdatascience.com/how-to-deliver-on-machine-learning-projects-c8d82ce642b0)
 
- [Deploying a Keras Deep Learning Model as a Web Application in P](https://towardsdatascience.com/deploying-a-keras-deep-learning-model-as-a-web-application-in-p-fc0f2354a7ff)</dt>
+ [Deploying a Keras Deep Learning Model as a Web Application in P](https://towardsdatascience.com/deploying-a-keras-deep-learning-model-as-a-web-application-in-p-fc0f2354a7ff)
 
 ### Genetic Algorithm
 
- [Genetic Algorithm Implementation in Python – Towards Data Science](https://towardsdatascience.com/genetic-algorithm-implementation-in-python-5ab67bb124a6)</dt>
+ [Genetic Algorithm Implementation in Python – Towards Data Science](https://towardsdatascience.com/genetic-algorithm-implementation-in-python-5ab67bb124a6)
 
- [Introduction to Optimization with Genetic Algorithm](https://towardsdatascience.com/introduction-to-optimization-with-genetic-algorithm-2f5001d9964b)</dt>
+ [Introduction to Optimization with Genetic Algorithm](https://towardsdatascience.com/introduction-to-optimization-with-genetic-algorithm-2f5001d9964b)
 
- [A tutorial on Differential Evolution with Python · Pablo R. Mier](https://pablormier.github.io/2017/09/05/a-tutorial-on-differential-evolution-with-python/)</dt>
+ [A tutorial on Differential Evolution with Python · Pablo R. Mier](https://pablormier.github.io/2017/09/05/a-tutorial-on-differential-evolution-with-python/)
 
 ### Keras
 

@@ -277,6 +277,8 @@ A trove of carefully curated resource links (software, platforms, language, tech
  [Homework 3](file:///C:/Users/Tirtha/Documents/Personal/GaTech%20OMSA/Courses/Fall%202018/ISYE%206501%20-%20Introduction%20to%20Analytics%20Modeling/HW/HW-3/Peer%20Review/2/Homework_3.html)
 
  ## Interesting Articles
+ 
+ [Becoming a Level 3.0 Data Scientist](https://www.kdnuggets.com/2019/05/becoming-a-level-3-data-scientist.html)
 
  [The Third-wave of Data Scientist](https://towardsdatascience.com/the-third-wave-data-scientist-1421df7433c9)
  

@@ -143,6 +143,52 @@ A trove of carefully curated resource links (software, platforms, language, tech
 
  [Understanding the GitHub Flow · GitHub Guides](https://guides.github.com/introduction/flow/)
 
+## Interesting Articles
+ 
+ [Towards an anti-fascist AI (from opendemocracy.net)](https://www.opendemocracy.net/en/digitaliberties/towards-anti-fascist-ai/)
+ 
+ [Becoming a Level 3.0 Data Scientist](https://www.kdnuggets.com/2019/05/becoming-a-level-3-data-scientist.html)
+
+ [The Third-wave of Data Scientist](https://towardsdatascience.com/the-third-wave-data-scientist-1421df7433c9)
+ 
+ [46 Most Intellectually Stimulating Sites That Will Spark Your Inner Genius in 10 Minutes a Day](https://medium.com/swlh/in-less-than-10-minutes-a-day-these-46-intellectually-stimulating-sites-will-spark-your-inner-d96ee6fc8387)
+
+ [Artificial Intelligence Learns to Learn Entirely on Its Own | Quanta Magazine](https://www.quantamagazine.org/artificial-intelligence-learns-to-learn-entirely-on-its-own-20171018/?utm_content=buffer578b7&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
+
+ [Edward Witten Ponders the Nature of Reality | Quanta Magazine](https://www.quantamagazine.org/edward-witten-ponders-the-nature-of-reality-20171128/)
+
+   [Engineers Shouldn’t Write ETL: A Guide to Building a High Functioning Data Science Department | Stitch Fix Technology – Multithreaded](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/)
+   
+  [Foundations Built for a General Theory of Neural Networks - Quanta Magazine](https://www.quantamagazine.org/foundations-built-for-a-general-theory-of-neural-networks-20190131)
+   
+ [General Thinking Tools: 9 Mental Models to Solve Difficult Problems](https://www.fs.blog/general-thinking-tools/)
+
+ [How Social Media Endangers Knowledge | WIRED](https://www.wired.com/story/wikipedias-fate-shows-how-the-web-endangers-knowledge/)
+
+ [In These Small Cities, AI Advances Could Be Costly - MIT Technology Review](https://www.technologyreview.com/s/609076/in-these-small-cities-ai-advances-could-be-costly/?utm_campaign=Owned+Social&utm_source=Facebook&utm_medium=Owned+Social)
+
+ [Machine Learning’s ‘Amazing’ Ability to Predict Chaos | Quanta Magazine](https://www.quantamagazine.org/machine-learnings-amazing-ability-to-predict-chaos-20180418/)
+
+ [New Brain Maps With Unmatched Detail May Change Neuroscience | WIRED](https://www.wired.com/story/new-brain-maps-with-unmatched-detail-may-change-neuroscience/)
+
+ [Pedro Domingos on the Arms Race in Artificial Intelligence - SPIEGEL ONLINE](http://www.spiegel.de/international/world/pedro-domingos-on-the-arms-race-in-artificial-intelligence-a-1203132.html)
+
+ [Quantum Leaps in Quantum Computing? - Scientific American](https://www.scientificamerican.com/article/quantum-leaps-in-quantum-computing/?utm_source=facebook&utm_medium=social&utm_campaign=sa-editorial-social&utm_content&utm_term=physics_sa-magazine_text_free)
+
+ [The Fragile State of the Midwest’s Public Universities - The Atlantic](https://www.theatlantic.com/business/archive/2017/10/midwestern-public-research-universities-funding/542889/?utm_source=vxfb)
+
+ [The Future of Human Work Is Imagination, Creativity, and Strategy](https://hbr.org/2018/01/the-future-of-human-work-is-imagination-creativity-and-strategy?utm_campaign=hbr&utm_source=linkedin&utm_medium=social)
+
+ [The Quantum Thermodynamics Revolution | Quanta Magazine](https://www.quantamagazine.org/the-quantum-thermodynamics-revolution-20170502?utm_content=buffere2607&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
+
+ [What Is Code? | Paul Ford| Bloomberg](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
+
+ [The Economics Of Artificial Intelligence - How Cheaper Predictions Will Change The World](https://www.forbes.com/sites/bernardmarr/2018/07/10/the-economics-of-artificial-intelligence-how-cheaper-predictions-will-change-the-world/#5b3b146f5a0d)
+
+ [OpenAI’s Dota 2 defeat is still a win for artificial intelligence  - The Verge](https://www.theverge.com/2018/8/28/17787610/openai-dota-2-bots-ai-lost-international-reinforcement-learning)
+
+ [Machine Learning Confronts the Elephant in the Room | Quanta Magazine](https://www.quantamagazine.org/machine-learning-confronts-the-elephant-in-the-room-20180920/)
+
 ## MOOC related
 
 [Complete lecture notes of the Stanford/Coursera Machine Learning class by Andrew Ng](http://www.holehouse.org/mlclass/)
@@ -276,51 +322,7 @@ A trove of carefully curated resource links (software, platforms, language, tech
 
  [Homework 3](file:///C:/Users/Tirtha/Documents/Personal/GaTech%20OMSA/Courses/Fall%202018/ISYE%206501%20-%20Introduction%20to%20Analytics%20Modeling/HW/HW-3/Peer%20Review/2/Homework_3.html)
 
- ## Interesting Articles
- 
- [Becoming a Level 3.0 Data Scientist](https://www.kdnuggets.com/2019/05/becoming-a-level-3-data-scientist.html)
-
- [The Third-wave of Data Scientist](https://towardsdatascience.com/the-third-wave-data-scientist-1421df7433c9)
- 
- [46 Most Intellectually Stimulating Sites That Will Spark Your Inner Genius in 10 Minutes a Day](https://medium.com/swlh/in-less-than-10-minutes-a-day-these-46-intellectually-stimulating-sites-will-spark-your-inner-d96ee6fc8387)
-
- [Artificial Intelligence Learns to Learn Entirely on Its Own | Quanta Magazine](https://www.quantamagazine.org/artificial-intelligence-learns-to-learn-entirely-on-its-own-20171018/?utm_content=buffer578b7&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
-
- [Edward Witten Ponders the Nature of Reality | Quanta Magazine](https://www.quantamagazine.org/edward-witten-ponders-the-nature-of-reality-20171128/)
-
-   [Engineers Shouldn’t Write ETL: A Guide to Building a High Functioning Data Science Department | Stitch Fix Technology – Multithreaded](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/)
-   
-  [Foundations Built for a General Theory of Neural Networks - Quanta Magazine](https://www.quantamagazine.org/foundations-built-for-a-general-theory-of-neural-networks-20190131)
-   
- [General Thinking Tools: 9 Mental Models to Solve Difficult Problems](https://www.fs.blog/general-thinking-tools/)
-
- [How Social Media Endangers Knowledge | WIRED](https://www.wired.com/story/wikipedias-fate-shows-how-the-web-endangers-knowledge/)
-
- [In These Small Cities, AI Advances Could Be Costly - MIT Technology Review](https://www.technologyreview.com/s/609076/in-these-small-cities-ai-advances-could-be-costly/?utm_campaign=Owned+Social&utm_source=Facebook&utm_medium=Owned+Social)
-
- [Machine Learning’s ‘Amazing’ Ability to Predict Chaos | Quanta Magazine](https://www.quantamagazine.org/machine-learnings-amazing-ability-to-predict-chaos-20180418/)
-
- [New Brain Maps With Unmatched Detail May Change Neuroscience | WIRED](https://www.wired.com/story/new-brain-maps-with-unmatched-detail-may-change-neuroscience/)
-
- [Pedro Domingos on the Arms Race in Artificial Intelligence - SPIEGEL ONLINE](http://www.spiegel.de/international/world/pedro-domingos-on-the-arms-race-in-artificial-intelligence-a-1203132.html)
-
- [Quantum Leaps in Quantum Computing? - Scientific American](https://www.scientificamerican.com/article/quantum-leaps-in-quantum-computing/?utm_source=facebook&utm_medium=social&utm_campaign=sa-editorial-social&utm_content&utm_term=physics_sa-magazine_text_free)
-
- [The Fragile State of the Midwest’s Public Universities - The Atlantic](https://www.theatlantic.com/business/archive/2017/10/midwestern-public-research-universities-funding/542889/?utm_source=vxfb)
-
- [The Future of Human Work Is Imagination, Creativity, and Strategy](https://hbr.org/2018/01/the-future-of-human-work-is-imagination-creativity-and-strategy?utm_campaign=hbr&utm_source=linkedin&utm_medium=social)
-
- [The Quantum Thermodynamics Revolution | Quanta Magazine](https://www.quantamagazine.org/the-quantum-thermodynamics-revolution-20170502?utm_content=buffere2607&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
-
- [What Is Code? | Paul Ford| Bloomberg](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
-
- [The Economics Of Artificial Intelligence - How Cheaper Predictions Will Change The World](https://www.forbes.com/sites/bernardmarr/2018/07/10/the-economics-of-artificial-intelligence-how-cheaper-predictions-will-change-the-world/#5b3b146f5a0d)
-
- [OpenAI’s Dota 2 defeat is still a win for artificial intelligence  - The Verge](https://www.theverge.com/2018/8/28/17787610/openai-dota-2-bots-ai-lost-international-reinforcement-learning)
-
- [Machine Learning Confronts the Elephant in the Room | Quanta Magazine](https://www.quantamagazine.org/machine-learning-confronts-the-elephant-in-the-room-20180920/)
-
-## Neural Network
+ ## Neural Network
 
 ### Videos
 

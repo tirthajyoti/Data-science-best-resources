@@ -281,7 +281,10 @@ A trove of carefully curated resource links (software, platforms, language, tech
  
  [Probability and Statistics Visually](https://seeing-theory.brown.edu)
 
-## Visualizations
+## Visualizations (and image processing related)
+
+[The paper describing Scikit-image from its core developers](https://peerj.com/articles/453/)
+
 [Full-screen interactive that lets you explore the first 300 years of Data Visualization](https://infowetrust.com/scroll/)
 
 [designing-great-visualizations.pdf](https://www.tableau.com/sites/default/files/media/designing-great-visualizations.pdf)

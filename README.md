@@ -470,7 +470,6 @@ A trove of carefully curated resource links (software, platforms, language, tech
 
 ### Data Mining
 
-
  [The 10 Mining Techniques Data Scientists Need for Their Toolbox](https://towardsdatascience.com/the-10-mining-techniques-data-scientists-need-for-their-toolbox-ae15a5733b02)</dt>
 
  [Wikipedia Data Science: Working with the World’s Largest Encyclopedia](https://towardsdatascience.com/wikipedia-data-science-working-with-the-worlds-largest-encyclopedia-c08efbac5f5c)</dt>
@@ -918,19 +917,21 @@ A trove of carefully curated resource links (software, platforms, language, tech
 
 ### Jupyter and IDE related
 
- [PyCharm for data scientists](https://www.kdnuggets.com/2019/05/pycharm-data-scientists.html)
+[Interactive spreadsheets in Jupyter](https://towardsdatascience.com/interactive-spreadsheets-in-jupyter-32ab6ec0f4ff)
 
- [Built-in magic commands — IPython 6.2.1 documentation](http://ipython.readthedocs.io/en/stable/interactive/magics.html)</dt>
+[PyCharm for data scientists](https://www.kdnuggets.com/2019/05/pycharm-data-scientists.html)
 
- [Concrete Statistics Jupyter Notebook Peter Norvig](http://nbviewer.jupyter.org/url/norvig.com/ipython/Probability.ipynb)</dt>
+[Built-in magic commands — IPython 6.2.1 documentation](http://ipython.readthedocs.io/en/stable/interactive/magics.html)</dt>
 
- [Economics simulation Jupyter Notebook Peter Norvig](http://nbviewer.jupyter.org/url/norvig.com/ipython/Economics.ipynb)</dt>
+[Concrete Statistics Jupyter Notebook Peter Norvig](http://nbviewer.jupyter.org/url/norvig.com/ipython/Probability.ipynb)</dt>
 
- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)</dt>
+[Economics simulation Jupyter Notebook Peter Norvig](http://nbviewer.jupyter.org/url/norvig.com/ipython/Economics.ipynb)</dt>
 
- [Using Interact — Jupyter Widgets 7.0.3 documentation](http://ipywidgets.readthedocs.io/en/stable/examples/Using%20Interact.html)
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)</dt>
+
+[Using Interact — Jupyter Widgets 7.0.3 documentation](http://ipywidgets.readthedocs.io/en/stable/examples/Using%20Interact.html)
  
- [Pixie - visual Python debugger for Jupyter notebook](https://medium.com/ibm-watson-data-lab/the-visual-python-debugger-for-jupyter-notebooks-youve-always-wanted-761713babc62)
+[Pixie - visual Python debugger for Jupyter notebook](https://medium.com/ibm-watson-data-lab/the-visual-python-debugger-for-jupyter-notebooks-youve-always-wanted-761713babc62)
 
 ### Matplotlib, Seaborn, Visualization
 

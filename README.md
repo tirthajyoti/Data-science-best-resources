@@ -329,6 +329,8 @@ A trove of carefully curated resource links (software, platforms, language, tech
 
 ### Videos
 
+[Deep blueberry](https://mithi.github.io/deep-blueberry/ch0-introduction.html)
+
  [Brandon Rohrer - Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM)](https://www.youtube.com/watch?v=WCUNPb-5EYI)</dt>
 
  [CS231n Lecture 10 - Recurrent Neural Networks, Image Captioning, LSTM - YouTube](https://www.youtube.com/watch?v=iX5V1WpxxkY)</dt>

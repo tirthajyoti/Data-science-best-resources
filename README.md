@@ -713,6 +713,8 @@ A trove of carefully curated resource links (software, platforms, language, tech
 
 ### Deployment of ML
 
+[Flask and Heroku for online Machine Learning deployment](https://towardsdatascience.com/flask-and-heroku-for-online-machine-learning-deployment-425beb54a274)
+
 [Overview of the different approaches to putting Machine Learning (ML) models in production](https://medium.com/analytics-and-data/overview-of-the-different-approaches-to-putting-machinelearning-ml-models-in-production-c699b34abf86)
 
  [[Guide] Building Data Science Web Application with React, NodeJS, and MySQL](https://towardsdatascience.com/guide-building-data-science-web-application-with-react-nodejs-and-mysql-1c55416ff0fb)</dt>

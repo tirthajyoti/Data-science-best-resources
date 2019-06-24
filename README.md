@@ -917,6 +917,10 @@ A trove of carefully curated resource links (software, platforms, language, tech
 
 ## Python
 
+### Tutorials
+
+[Everything About Python — Beginner To Advanced](https://medium.com/fintechexplained/everything-about-python-from-beginner-to-advance-level-227d52ef32d2)
+
 ### Jupyter and IDE related
 
 [Interactive spreadsheets in Jupyter](https://towardsdatascience.com/interactive-spreadsheets-in-jupyter-32ab6ec0f4ff)

@@ -1,6 +1,11 @@
 # Data Science Curated Resources
 A trove of carefully curated resource links (software, platforms, language, techniques, etc.) for data science, all in one place.
 
+Authored and maintained by **Dr. Tirthajyoti Sarkar** 
+> ([Website](https://tirthajyoti.github.io)
+
+> [LinkedIn profile](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/))
+
 ## Artificial Intelligence
 
 [MONTRÉAL.AI ACADEMY: ARTIFICIAL INTELLIGENCE 101 FIRST WORLD-CLASS OVERVIEW OF AI FOR ALL](http://www.montreal.ai/ai4all.pdf)

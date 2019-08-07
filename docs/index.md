@@ -2,9 +2,9 @@
 A trove of carefully curated resource links (software, platforms, language, techniques, etc.) for data science, all in one place.
 
 Authored and maintained by **Dr. Tirthajyoti Sarkar** 
-> ([Website](https://tirthajyoti.github.io)
+> [Website](https://tirthajyoti.github.io)
 
-> [LinkedIn profile](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/))
+> [LinkedIn profile](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/)
 
 ## Artificial Intelligence
 

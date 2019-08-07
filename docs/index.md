@@ -6,6 +6,8 @@ Authored and maintained by **Dr. Tirthajyoti Sarkar**
 
 > [LinkedIn profile](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/)
 
+![DS-1](https://raw.githubusercontent.com/tirthajyoti/Data-science-best-resources/master/images/Data_Science_1.png)
+
 ## Artificial Intelligence
 
 [MONTRÉAL.AI ACADEMY: ARTIFICIAL INTELLIGENCE 101 FIRST WORLD-CLASS OVERVIEW OF AI FOR ALL](http://www.montreal.ai/ai4all.pdf)

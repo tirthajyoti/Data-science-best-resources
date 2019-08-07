@@ -1,0 +1,5 @@
+site_name: Data-Science-Best-Resources
+nav:
+    - Home: index.md
+site_author: Tirthajyoti Sarkar
+repo_url: https://github.com/tirthajyoti/Data-science-best-resources/

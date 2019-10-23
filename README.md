@@ -1,5 +1,5 @@
 # Data Science Collected Resources
-A trove of carefully curated resource links (software, platforms, language, techniques, etc.) for data science, all in one place.
+A trove of carefully curated resource links (software, platforms, language, techniques, etc.) related to data science, all in one place.
 
 ### Please feel free to [add me here on LinkedIn](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/) if you are interested in data science and would like to connect.
 

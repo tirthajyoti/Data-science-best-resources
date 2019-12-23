@@ -529,6 +529,8 @@ Authored and maintained by **Dr. Tirthajyoti Sarkar**
 
 ### JSON, XML, HTML
 
+[An useful quick-guide of essential HTML tags for any developer, in the form of a periodic table](https://websitesetup.org/html5-periodical-table/)
+
 [JSON Crash Course - YouTube](https://www.youtube.com/watch?v=wI1CWzNtE-M)
 [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/)
 [HTML5 Form Validation Examples < HTML | The Art of Web](http://www.the-art-of-web.com/html/html5-form-validation/)

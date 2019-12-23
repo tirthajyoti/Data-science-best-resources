@@ -529,6 +529,8 @@ Authored and maintained by **Dr. Tirthajyoti Sarkar**
 
 ### JSON, XML, HTML
 
+[How to Create a Website - An Easy, Step-by-Step Guide for Beginners](https://websitesetup.org/)
+
 [An useful quick-guide of essential HTML tags for any developer, in the form of a periodic table](https://websitesetup.org/html5-periodical-table/)
 
 [JSON Crash Course - YouTube](https://www.youtube.com/watch?v=wI1CWzNtE-M)

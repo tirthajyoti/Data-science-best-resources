@@ -5,7 +5,7 @@ A trove of carefully curated resources and links (on the topics of software, pla
 
 ---
 
-## Artificial Intelligence
+## Artificial Intelligence related
 
 [MONTRÉAL.AI ACADEMY: ARTIFICIAL INTELLIGENCE 101 FIRST WORLD-CLASS OVERVIEW OF AI FOR ALL](http://www.montreal.ai/ai4all.pdf)
 

@@ -3,6 +3,8 @@ A trove of carefully curated resources and links (on the topics of software, pla
 
 ### Please feel free to [connect with me here on LinkedIn](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/) if you are interested in data science and would like to connect.
 
+### Please visit my [Medium profile](https://medium.com/@tirthajyoti) to check out all of my data science articles.
+
 ---
 
 ## Artificial Intelligence related

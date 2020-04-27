@@ -5,6 +5,8 @@ A trove of carefully curated resources and links (on the topics of software, pla
 
 ### Please visit my [Medium profile](https://medium.com/@tirthajyoti) to check out all of my data science articles.
 
+### Please check this [Github Repo for all my Tutorial-style Machine Learning Jupyter notebooks](https://github.com/tirthajyoti/Machine-Learning-with-Python) 
+
 ---
 
 ## Artificial Intelligence related

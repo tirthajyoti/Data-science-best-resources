@@ -539,6 +539,8 @@ Authored and maintained by **Dr. Tirthajyoti Sarkar**
  
 ### CSS
 
+ [The Beginner’s Guide to CSS](https://www.quicksprout.com/beginners-guide-to-css/)
+ 
  [The CSS Handbook: a handy guide to CSS for developers](https://medium.freecodecamp.org/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11)
  
  [Creating a Simple Website with HTML and CSS - Part 1 - YouTube](https://www.youtube.com/watch?v=A3Xgz9PHGuA)</dt>

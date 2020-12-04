@@ -719,6 +719,8 @@ A trove of carefully curated resources and links (on the topics of software, pla
 
 ### Deployment of ML
 
+[Creating data science APIs with Flask](https://faculty.ai/blog/creating-data-science-apis-with-flask/)
+
 [Flask and Heroku for online Machine Learning deployment](https://towardsdatascience.com/flask-and-heroku-for-online-machine-learning-deployment-425beb54a274)
 
 [Overview of the different approaches to putting Machine Learning (ML) models in production](https://medium.com/analytics-and-data/overview-of-the-different-approaches-to-putting-machinelearning-ml-models-in-production-c699b34abf86)

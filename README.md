@@ -925,6 +925,10 @@ A trove of carefully curated resources and links (on the topics of software, pla
 
  [Learning to Optimize with Reinforcement Learning – The Berkeley Artificial Intelligence Research Blog](https://bair.berkeley.edu/blog/2017/09/12/learning-to-optimize-with-rl/)</dt>
 
+### Kaggle
+
+[Hello Kaggle! - A Kaggle Guide for someone who is new at Kaggle](https://github.com/stevekwon211/Hello-Kaggle)</dt>
+
 ## Python
 
 ### Tutorials

@@ -67,6 +67,8 @@ A trove of carefully curated resources and links (on the topics of software, pla
  
 ## Blogs, StacksExchanges
 
+[7-Step Guide to Become a Machine Learning Engineer in 2021](https://www.dezyre.com/article/7-step-guide-to-become-a-machine-learning-engineer-in-2021/409)
+
 [Reducing the Need for Labeled Data in Generative Adversarial Networks](https://ai.googleblog.com/2019/03/reducing-need-for-labeled-data-in.html)
 
 [Jason's Google ML 101 deck](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/edit)
@@ -114,6 +116,9 @@ A trove of carefully curated resources and links (on the topics of software, pla
  [GitHub Python Data Science Spotlight: AutoML, NLP, Visualization, ML Workflows](https://www.kdnuggets.com/2018/08/github-python-data-science-spotlight.html)
 
 ## Books, Courses, Repos
+
+ [Solved end-to-end Data Science projects](https://www.dezyre.com/projects/data-science-projects)
+ 
  [Dive into Deep Learning (An interactive deep learning book with code, math, and discussions)](https://d2l.ai/index.html)
 
  [Machine Learning Math book](https://mml-book.github.io/)

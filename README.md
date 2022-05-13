@@ -1085,6 +1085,8 @@ A trove of carefully curated resources and links (on the topics of software, pla
  [Python Tricks 101 – Hacker Noon](https://hackernoon.com/python-tricks-101-2836251922e0)</dt>
 
  [Python tutorial - TutorialsPoint](https://www.tutorialspoint.com/python/index.htm)</dt>
+ 
+ [Python Programming - Scaler Topics](https://www.scaler.com/topics/python/)
 
  [Regular Expressions for Data Scientists](https://www.dataquest.io/blog/regular-expressions-data-scientists/)
 

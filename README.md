@@ -1111,7 +1111,9 @@ A trove of carefully curated resources and links (on the topics of software, pla
  [Data Manipulation with dplyr | R-bloggers](https://www.r-bloggers.com/data-manipulation-with-dplyr/)
 
  [Data Science and Machine Learning Bootcamp with R | Udemy](https://www.udemy.com/data-science-and-machine-learning-bootcamp-with-r/learn/v4/overview)
-
+ 
+ [Explore R | Discover libraries, source code, top authors, trending discussions | kandi](https://kandi.openweaver.com/explore/r)
+ 
  [ggplot2-cheatsheet.pdf](https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf)
 
  [Machine Learning A-Z™: Download Practice Datasets - SuperDataScience - Big Data | Analytics Careers | Mentors | Success](https://www.superdatascience.com/machine-learning/)

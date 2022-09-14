@@ -582,6 +582,8 @@ A trove of carefully curated resources and links (on the topics of software, pla
  [How to Make A Website in 2018 - Web Hosting Guide | WHSR](https://www.webhostingsecretrevealed.net/web-hosting-beginner-guide/) 
 
  [jhu-ep-coursera/fullstack-course4: Example code for HTML, CSS, and Javascript for Web Developers Coursera Course](https://github.com/jhu-ep-coursera/fullstack-course4)
+ 
+ [Free JavaScript Tutorial - Scaler](https://www.scaler.com/topics/javascript/) 
 
 ## LaTeX, Markdown, reST
 

@@ -724,6 +724,8 @@ A trove of carefully curated resources and links (on the topics of software, pla
  [A Complete Tutorial to Learn Data Science with Julia from Scratch](https://www.analyticsvidhya.com/blog/2017/10/comprehensive-tutorial-learn-data-science-julia-from-scratch/)</dt>
  
  [Julia for Data Analysis](https://www.manning.com/books/julia-for-data-analysis)</dt>
+ 
+ [Julia as a Second Language](https://www.manning.com/books/julia-as-a-second-language)</dt>
 
 ## Machine Learning
 

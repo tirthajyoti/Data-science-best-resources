@@ -201,6 +201,8 @@ A trove of carefully curated resources and links (on the topics of software, pla
  [OpenAI’s Dota 2 defeat is still a win for artificial intelligence  - The Verge](https://www.theverge.com/2018/8/28/17787610/openai-dota-2-bots-ai-lost-international-reinforcement-learning)
 
  [Machine Learning Confronts the Elephant in the Room | Quanta Magazine](https://www.quantamagazine.org/machine-learning-confronts-the-elephant-in-the-room-20180920/)
+ 
+ [Working with Dataframes in Julia | Manning Free Content Center](https://freecontent.manning.com/working-with-dataframes-in-julia/)
 
 ## MOOC related
 

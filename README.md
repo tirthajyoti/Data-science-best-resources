@@ -1089,6 +1089,8 @@ A trove of carefully curated resources and links (on the topics of software, pla
  [Python tutorial - TutorialsPoint](https://www.tutorialspoint.com/python/index.htm)</dt>
 
  [Regular Expressions for Data Scientists](https://www.dataquest.io/blog/regular-expressions-data-scientists/)
+ 
+ [Learn Python Programming - Scaler Topics](https://www.scaler.com/topics/python/)
 
  [Simple Linear Regression Analysis - ReliaWiki](http://reliawiki.org/index.php/Simple_Linear_Regression_Analysis#Fitted_Regression_Line)
 

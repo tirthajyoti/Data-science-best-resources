@@ -135,6 +135,8 @@ A trove of carefully curated resources and links (on the topics of software, pla
  
  [Nerual Networks and Deep Learning - an online book](neuralnetworksanddeeplearning.com)
  
+ [Machine Learning Algorithms in Depth](https://www.manning.com/books/machine-learning-algorithms-in-depth)
+ 
 
 ## Git and Github
 

@@ -262,6 +262,8 @@ A trove of carefully curated resources and links (on the topics of software, pla
  
  [Kaggle SQL course (including BigQuery topics)](https://www.kaggle.com/learn/sql)
  
+ [SQL for Data Science — Interview RoadMap](https://medium.com/plumbersofdatascience/sql-for-data-science-interview-roadmap-be03aac4ae14)
+ 
  ## Statistics
  
  [Common statistical tests are linear models (or: how to teach stats)](https://lindeloev.github.io/tests-as-linear/)

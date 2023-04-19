@@ -728,6 +728,8 @@ A trove of carefully curated resources and links (on the topics of software, pla
  [Julia for Data Analysis](https://www.manning.com/books/julia-for-data-analysis)</dt>
  
  [Julia as a Second Language](https://www.manning.com/books/julia-as-a-second-language)</dt>
+ 
+ [Julia for Data Science](https://www.manning.com/books/julia-for-data-science)</dt>
 
 ## Machine Learning
 

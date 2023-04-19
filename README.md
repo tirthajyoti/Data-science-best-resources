@@ -135,6 +135,8 @@ A trove of carefully curated resources and links (on the topics of software, pla
  
  [Nerual Networks and Deep Learning - an online book](neuralnetworksanddeeplearning.com)
  
+ [Machine Learning Algorithms in Depth](https://www.manning.com/books/machine-learning-algorithms-in-depth)
+ 
 
 ## Git and Github
 
@@ -201,6 +203,8 @@ A trove of carefully curated resources and links (on the topics of software, pla
  [OpenAI’s Dota 2 defeat is still a win for artificial intelligence  - The Verge](https://www.theverge.com/2018/8/28/17787610/openai-dota-2-bots-ai-lost-international-reinforcement-learning)
 
  [Machine Learning Confronts the Elephant in the Room | Quanta Magazine](https://www.quantamagazine.org/machine-learning-confronts-the-elephant-in-the-room-20180920/)
+ 
+ [Working with Dataframes in Julia | Manning Free Content Center](https://freecontent.manning.com/working-with-dataframes-in-julia/)
 
 ## MOOC related
 
@@ -720,6 +724,12 @@ A trove of carefully curated resources and links (on the topics of software, pla
  ## Julia
 
  [A Complete Tutorial to Learn Data Science with Julia from Scratch](https://www.analyticsvidhya.com/blog/2017/10/comprehensive-tutorial-learn-data-science-julia-from-scratch/)</dt>
+ 
+ [Julia for Data Analysis](https://www.manning.com/books/julia-for-data-analysis)</dt>
+ 
+ [Julia as a Second Language](https://www.manning.com/books/julia-as-a-second-language)</dt>
+ 
+ [Julia for Data Science](https://www.manning.com/books/julia-for-data-science)</dt>
 
 ## Machine Learning
 

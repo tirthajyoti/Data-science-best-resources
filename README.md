@@ -135,6 +135,8 @@ A trove of carefully curated resources and links (on the topics of software, pla
  
  [Nerual Networks and Deep Learning - an online book](neuralnetworksanddeeplearning.com)
  
+ [Machine Learning Observability 101 - ebook](https://arize.com/wp-content/uploads/2021/11/Machine-Learning-Observability-101-_-Arize-AI.pdf)
+ 
 
 ## Git and Github
 

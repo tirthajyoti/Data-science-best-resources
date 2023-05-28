@@ -1109,6 +1109,8 @@ A trove of carefully curated resources and links (on the topics of software, pla
  [A Comprehensive Guide to Data Visualisation in R for Beginners](https://towardsdatascience.com/a-guide-to-data-visualisation-in-r-for-beginners-ef6d41a34174)
 
  [An R Introduction to Statistics | R Tutorial](http://www.r-tutor.com/)
+ 
+ [Big Book of R | Over 350 free R open-source books](https://www.bigbookofr.com/)
 
  [Data Manipulation with dplyr | R-bloggers](https://www.r-bloggers.com/data-manipulation-with-dplyr/)
 

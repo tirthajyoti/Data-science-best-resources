@@ -240,6 +240,10 @@ A trove of carefully curated resources and links (on the topics of software, pla
 
  [U. Wash ML course Jupyter Home](https://hub.coursera-notebooks.org/user/hwxlouxsysrhhnfzzinqjs/tree)
 
+ [9 Best Data Science Courses By Data Scientists (Free & Paid)](https://www.interviewbit.com/blog/best-data-science-courses/)
+
+ [Data Science & Machine Learning Program | Scaler Academy](https://www.scaler.com/data-science-course/)
+
 ## SQL
 
  [A Visual Explanation of SQL Joins](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)

@@ -242,6 +242,8 @@ A trove of carefully curated resources and links (on the topics of software, pla
 
 ## SQL
 
+ [100 SQL Server Mistakes and How to Avoid Them](https://www.manning.com/books/100-sql-server-mistakes-and-how-to-avoid-them?ar=false&lpse=B)
+
  [A Visual Explanation of SQL Joins](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
 
  [Join (SQL) - Wikipedia](https://en.wikipedia.org/wiki/Join_(SQL))
